@@ -1,0 +1,15 @@
+{
+  "name": "intelligent-product-support-fullstack",
+  "version": "1.0.0",
+  "description": "Standalone React + Node.js Intelligent Product Support Assistant",
+  "private": true,
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm run dev",
+    "dev": "npm run start:backend"
+  },
+  "keywords": ["ai", "rag", "product-support", "react", "nodejs"],
+  "author": "",
+  "license": "ISC"
+}

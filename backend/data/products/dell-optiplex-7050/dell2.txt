@@ -1,0 +1,141 @@
+Vostro 3478
+Quick Start Guide
+Guide de démarrage rapide
+Guía de inicio rápido
+1 	Connect the power adapter and
+press the power button
+Branchez l’adaptateur secteur et appuyez sur le bouton d’alimentation
+Conecte el adaptador de alimentación y presione el botón de encendido
+Product support and manuals
+Assistance produits et manuels
+Manuales y soporte del producto
+Dell.com/support
+Dell.com/support/manuals
+Dell.com/support/windows
+Contact Dell
+Contacter Dell | Póngase en contacto con Dell. 	Dell.com/contactdell
+Regulatory and safety
+Réglementations et sécurité | Información reglamentaria
+y de seguridad
+Dell.com/regulatory_compliance
+Regulatory model
+Modèle réglementaire | Modelo reglamentario 	P76G
+Regulatory type
+Type réglementaire | Tipo reglamentario 	P76G002
+Computer model
+Modèle de l’ordinateur | Modelo del equipo 	Vostro 3478
+2017-11
+© 2017 Dell Inc. or its subsidiaries.
+© 2017 Intel Corporation.
+What’s New
+Nouveautés | Novedades
+• Supports Intel ® Kaby lake Celeron UMA processors
+• Supports Intel ® Kaby lake Pentium UMA processors
+• Prise en charge des processeurs UMA Intel ® Kaby Lake Celeron
+• Prise en charge des processeurs UMA Intel ® Kaby Lake Pentium
+• Compatibilidad con procesadores de UMA Intel ® Kaby Lake Celeron
+• Compatibilidad con procesadores de UMA Intel ® Kaby Lake Pentium
+Locate Dell apps in Windows 10
+Localisez les applications Dell dans Windows 10
+Localice las aplicaciones Dell en Windows 10
+SupportAssist 	Scan, optimize, update, and get support for your
+computer
+Analysez, optimisez, mettez à jour et obtenez un support
+pour votre ordinateur
+Analice, optimice, actualice y obtenga soporte para su
+computadora.
+Información para NOM, o Norma Oficial Mexicana
+La información que se proporciona a continuación se mostrará en los dispositivos que se describen
+en este documento, en conformidad con los requisitos de la Norma Oficial Mexicana (NOM):
+Importador:
+Dell México S.A. de C.V.
+Paseo de la Reforma 2620 - Piso 11.°
+Col. Lomas Altas
+11950 Ciudad de México.
+Número de modelo reglamentario: 	P76G
+Voltaje de entrada: 	100 V AC–240 V AC
+Corriente de entrada (máxima): 	1.3 A/1.6 A/1.7 A
+Frecuencia de entrada: 	50 Hz–60 Hz
+Corriente de salida: 	2.31 A/3.34 A
+Voltaje de salida 	19.5 V DC
+
+-- 1 of 2 --
+
+Features
+Caractéristiques | Características
+1. 	Camera
+2. 	Camera-status light
+3. 	Microphone
+4. 	Security-cable slot
+5. 	Power button
+6. 	Optical drive
+7. 	USB 2.0 port
+8. 	Headset port
+9. 	Memory card reader
+10. Fingerprint reader (optional)
+11. 	Speaker
+12. Power and battery-status light/
+hard-drive activity light
+13. Touchpad
+14. Speaker
+15. USB 3.1 Gen 1 ports
+16. HDMI port
+17. 	VGA port
+18. Network port
+19. Power adapter
+20. Battery
+21. Battery release latch
+22. Service Tag label
+1. 	Caméra
+2. 	Voyant d’état de la caméra
+3. 	Microphone
+4. 	Fente pour câble de sécurité
+5. 	Bouton d’alimentation
+6. 	Lecteur optique
+7. 	Port USB 2.0
+8. 	Port casque
+9. 	Lecteur de carte mémoire
+10. Lecteur d’empreintes digitales (en
+option)
+11. 	Haut-parleur
+12. Voyant d’état de la batterie et de
+l’alimentation/ voyant d’activité du
+disque dur
+13. Pavé tactile
+14. Haut-parleur
+15. Ports USB 3.1 Gen 1
+16. Port HDMI
+17. 	Port VGA
+18. Port réseau
+19. Adaptateur d’alimentation
+20. Batterie
+21. Loquet de déverrouillage de batterie
+22. Étiquette du numéro de série
+1. 	Cámara
+2. 	Indicador luminoso de estado de la
+cámara
+3. 	Micrófono
+4. 	Ranura para cable de seguridad
+5. 	Botón de encendido
+6. 	Unidad óptica
+7. 	Puerto USB 2.0
+8. 	Puerto para auriculares
+9. 	Lector de tarjetas de memoria
+10. Lector de dactilares (opcional)
+11. 	Altavoz
+12. Indicador luminoso de estado de la
+batería y de alimentación/Indicador
+luminoso de actividad del disco duro
+13. Superficie táctil
+14. Altavoz
+15. Puertos USB 3.1 Generación 1
+16. Puerto HDMI
+17. 	Puerto VGA
+18. Puerto de red
+19. Adaptador de alimentación
+20. Batería
+21. Pestillo de liberación de la batería
+22. Etiqueta de servicio
+
+-- 2 of 2 --
+

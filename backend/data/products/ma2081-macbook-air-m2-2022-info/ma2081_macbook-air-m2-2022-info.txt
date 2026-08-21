@@ -1,0 +1,149 @@
+Before using your MacBook Air, review the MacBook Air
+Essentials guide at support.apple.com/guide/macbook-
+air. You can also use Apple Books to download the
+guide (where available). Retain documentation for
+future reference.
+Safety and Handling
+See “Safety, handling, and regulatory information” in
+the MacBook Air Essentials guide.
+Avoid Hearing Damage
+To prevent possible hearing damage, do not listen at
+high volume levels for long periods. More information
+about sound and hearing is available online at
+apple.com/sound.
+Medical Device Interference
+MacBook Air contains magnets that may interfere with
+medical devices. See “Important safety information” in
+the MacBook Air Essentials guide.
+Prolonged Heat Exposure
+Your MacBook Air may become very warm during
+normal use. It’s important to keep your MacBook Air on
+a hard, stable, and well-ventilated work surface when in
+use or charging. Use common sense to avoid situations
+where your body is in prolonged contact with a device
+or its power adapter when it’s operating or plugged
+into a power source, as sustained contact with warm
+surfaces may cause discomfort or injury. Take special
+care if you have a physical condition that affects your
+ability to detect heat against the body.
+Regulatory Information
+Regulatory certification information is available on-
+device. Choose Apple menu  > About This Mac,
+click Resources, then click Regulatory Certification.
+Additional regulatory information is in “Safety, handling,
+and regulatory information” in the MacBook Air
+Essentials guide.
+FCC and ISED Canada Compliance
+This device complies with part 15 of the FCC Rules
+and ISED Canada licence-exempt RSS standard(s).
+Operation is subject to the following two conditions:
+(1) this device may not cause harmful interference,
+and (2) this device must accept any interference
+received, including interference that may cause
+undesired operation.
+EU / UK Compliance
+Apple Inc. hereby declares that this wireless device
+is in compliance with Directive 2014/53/EU and
+Radio Equipment Regulations 2017. A copy of the
+Declaration of Conformity is available at apple.com/
+euro/compliance. Apple’s EU representative is Apple
+Distribution International Ltd., Hollyhill Industrial Estate,
+Cork, Ireland. Apple’s UK representative is Apple UK
+Ltd., 2 Furzeground Way, Stockley Park, Middlesex,
+UB11 1BB.
+Use Restriction
+This device is restricted to indoor use when operating
+in the 5150 to 5350 MHz frequency range. This
+restriction applies in: AT, BE, BG, CH, CY, CZ, DE, DK,
+EE, EL, ES, FI, FR, HR, HU, IE, IS, IT, LI, LT, LU, LV, MT,
+NL, NO, PL, PT, RO, SE, SI, SK, TR, UA, UK(NI).
+ENERGY STAR® Compliance
+As an ENERGY STAR partner, Apple has determined
+that standard configurations of this product meet the
+ENERGY STAR guidelines for energy efficiency. The
+ENERGY STAR program is a partnership with electronic
+equipment manufacturers to promote energy-efficient
+products. Reducing energy consumption of products
+saves money and helps conserve valuable resources.
+This computer is shipped with power management
+enabled with the computer set to sleep after 10 minutes
+of user inactivity. To wake your computer, click the
+trackpad or press any key on the keyboard. For more
+information about ENERGY STAR, visit energystar.gov.
+Disposal and Recycling Information
+The symbol above means that according to local laws
+and regulations your product and/or its battery shall
+be disposed of separately from household waste.
+When this product reaches its end of life, take it to
+a collection point designated by local authorities.
+The separate collection and recycling of your product
+and/or its battery at the time of disposal will help
+conserve natural resources and ensure that it is
+recycled in a manner that protects human health
+and the environment. For information about Apple’s
+recycling program, recycling collection points,
+restricted substances, and other environmental
+initiatives, visit apple.com/environment.
+
+-- 1 of 2 --
+
+Built-in Battery and Charging
+Don’t attempt to replace or remove the battery
+yourself—you may damage the battery, which could
+cause overheating, fire, and injury. The built-in
+battery should be replaced by Apple or an authorized
+service provider, and must be recycled or disposed
+of separately from household waste. Dispose of
+batteries according to your local environmental laws
+and guidelines. For information about battery recycling
+and replacement, go to apple.com/batteries/service-
+and-recycling. For information about charging, see
+“Important safety information” in the MacBook Air
+Essentials guide.
+Software License Agreement
+Use of MacBook Air constitutes acceptance of the
+Apple and third-party software license terms found at
+apple.com/legal/sla.
+Apple One-Year Limited Warranty Summary
+Apple warrants the included hardware product
+and accessories against defects in materials and
+workmanship for one year from the date of original
+retail purchase. Apple does not warrant against normal
+wear and tear, nor damage caused by accident or
+abuse. To obtain service, call Apple or visit an Apple
+Store or an Apple Authorized Service Provider—
+available service options are dependent on the country
+in which service is requested and may be restricted
+to the original country of sale. Call charges and
+international shipping charges may apply, depending
+on the location. Subject to the full terms and detailed
+information on obtaining service available at apple.com/
+legal/warranty and support.apple.com, if you submit a
+valid claim under this warranty, Apple will either repair,
+replace, or refund your computer at its own discretion.
+Warranty benefits are in addition to rights provided
+under local consumer laws. You may be required to
+furnish proof of purchase details when making a claim
+under this warranty.
+For Australian consumers: Our goods come with
+guarantees that cannot be excluded under the
+Australian Consumer Law. You are entitled to a
+replacement or refund for a major failure and for
+compensation for any other reasonably foreseeable
+loss or damage. You are also entitled to have the
+goods repaired or replaced if the goods fail to be of
+acceptable quality and the failure does not amount to
+a major failure. Apple Pty Ltd, PO Box A2629, Sydney
+South NSW 1235. Tel: 133-622.
+© 2022 Apple Inc. All rights reserved. Apple, the
+Apple logo, Apple Books, and MacBook Air are
+trademarks of Apple Inc., registered in the U.S. and
+other countries and regions. Apple Store is a service
+mark of Apple Inc., registered in the U.S. and other
+countries and regions. ENERGY STAR and the ENERGY
+STAR mark are registered trademarks owned by the
+U.S. Environmental Protection Agency. Printed in XXXX.
+034-05044-A
+
+-- 2 of 2 --
+

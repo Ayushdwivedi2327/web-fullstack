@@ -1,0 +1,3915 @@
+www.samsung.com	English. 01/2026. Rev.1.0
+USER GUIDE
+SM-A576B
+SM-A576B/DS
+SM-A376B
+SM-A376B/DS
+SM-A376E/DS
+
+-- 1 of 137 --
+
+2
+Table of Contents
+Getting started
+5 	Device layout and functions
+9 	Charging the battery
+12 	Nano-SIM card and eSIM
+14 	Turning the device on and off
+15 	Initial setup
+15 	Using networks
+16 	Samsung account
+17 	Transferring data from your previous
+device (Smart Switch)
+18 	Understanding the screen
+25 	Notification panel
+26 	Quick settings panel
+28 	Screen capture and screen record
+30 	Entering text
+31 	Extracting text
+Apps and features
+32 	Installing or uninstalling apps
+33 	Phone
+36 	Contacts
+39 	Camera
+53 	Gallery
+58 	Bixby
+59 	Multi window (Using multiple apps
+at once)
+60 	Samsung Internet
+61 	Samsung Wallet
+64 	Samsung Health
+64 	Samsung Notes
+65 	Samsung Members
+65 	Samsung Kids
+66 	Samsung Global Goals
+66 	Samsung TV Plus
+66 	Samsung Find
+66 	Samsung Shop
+67 	Samsung News
+67 	Galaxy Shop
+68 	Galaxy Wearable
+68 	Calendar
+69 	Reminder
+70 	Voice Recorder
+71 	My Files (Checking and managing
+the files)
+71 	Clock
+71 	Calculator
+72 	Gaming Hub
+72 	Game Booster (Configuring your
+gaming environment)
+74 	SmartThings
+75 	Sharing content
+76 	Music Share
+77 	Smart View (Mirroring on a TV
+screen)
+78 	Google apps
+
+-- 2 of 137 --
+
+Table of Contents
+3
+100 Security and privacy
+101 	Face recognition
+103 Fingerprint recognition
+105 	Secure Wi-Fi
+106 Secure Folder
+109 Samsung Pass
+110 	Location
+111 	Safety and emergency
+112 	Accounts and backup
+112 	Samsung Cloud
+113 	Google services
+114 	Advanced features
+115 	Motions and gestures
+116 	Video effects
+116 	Galaxy Avatar
+117 	Dual Messenger
+118 	Digital Wellbeing and parental
+controls
+118 	Device care
+119 	Apps
+120 	General management
+121 	Accessibility
+121 	Software update
+122 	Remote management (Galaxy A37
+5G)
+122 	About phone
+Settings
+79 	Introduction
+79 	Sign in to your Galaxy
+79 	Connections
+81 	Wi-Fi
+82 	Bluetooth
+84 	NFC and contactless payments
+85 	Data saver
+85 	Allowed networks for apps
+85 	Mobile Hotspot
+86 	More connection settings
+88 	Connected devices
+89 	Modes and Routines
+89 	Using modes
+90 	Using routines
+91 	Sounds and vibration
+92 	Sound quality and effects
+92 	Separate app sound
+93 	Notifications
+93 	Display
+95 	Motion smoothness
+95 	Changing the screen mode or
+adjusting the display colour
+96 	Battery
+97 	Wallpaper and style
+97 	Themes
+97 	Home screen
+98 	Lock screen and AOD
+99 	Extend Unlock
+99 	Always On Display (Displaying
+information when the screen is
+turned off)
+
+-- 3 of 137 --
+
+Table of Contents
+4
+Usage notices
+123 	Precautions for using the device
+125 	Notes on package contents and
+accessories
+126 	Maintaining water and dust
+resistance
+127 	Device overheating situations and
+solutions
+130 How to find the standby power
+consumption information for this
+product
+Appendix
+131 	Troubleshooting
+136 	Removing the battery
+
+-- 4 of 137 --
+
+5
+Getting started
+Device layout and functions
+▶ Galaxy A57 5G:
+Screen
+Headphone jack /
+Multipurpose jack
+(USB Type-C)
+Nano-SIM card tray
+Speaker
+Fingerprint
+recognition sensor
+Side button
+Volume button
+Front camera
+Proximity/Light sensor
+
+-- 5 of 137 --
+
+Getting started
+6
+NFC antenna
+Rear camera
+Main antenna
+Microphone
+Speaker
+Flash
+Microphone
+Air vent hole
+GPS antenna
+
+-- 6 of 137 --
+
+Getting started
+7
+▶ Galaxy A37 5G:
+Screen
+Headphone jack /
+Multipurpose jack
+(USB Type-C)
+Nano-SIM card tray
+Speaker
+Fingerprint
+recognition sensor
+Side button
+Volume button
+Front camera
+Light sensor
+NFC antenna
+Rear camera
+Main antenna
+Microphone
+Speaker
+Flash
+Air vent hole
+Microphone
+Speaker
+GPS antenna
+
+-- 7 of 137 --
+
+Getting started
+8
+• 	When using the speakers, such as when playing media files or using
+speakerphone, do not place the device close to your ears.
+• 	Be careful not to expose the camera lens to a strong light source, such as direct
+sunlight or a laser. If the camera lens is exposed to a strong light source, such as
+direct sunlight, the camera image sensor may be damaged. A damaged image
+sensor is irreparable and will cause dots or spots in pictures.
+• 	Do not use the device if any parts are broken or damaged, such as glass or
+acrylic body, as this may result in injury. Use only after it has been repaired by a
+Samsung Service Centre or an authorised service centre.
+• 	If dust or foreign materials enter the microphone, speaker, or receiver, or if these
+parts are covered, the device’s sound may become quiet or certain features may
+not work. If you attempt to remove the dust or foreign materials with a sharp
+object, the device may be damaged and its appearance may be affected.
+• 	Connectivity problems and battery drain may occur in the following situations:
+‒ 	If you attach metallic stickers on the antenna area of the device
+‒ 	If you attach a device cover made with metallic material to the device
+‒ 	If you cover the device’s antenna area with your hands or other objects while
+using certain features, such as calls or the mobile data connection
+• 	If the air vent hole is covered by an accessory, such as a protective film or sticker,
+unwanted noises may occur during calls or media playback.
+• 	Do not cover the proximity/light sensor area with accessories, such as stickers or
+a cover. Doing so may cause the sensor to malfunction. (Galaxy A57 5G)
+• 	Do not cover the light sensor area with accessories, such as stickers or a cover.
+Doing so may cause the sensor to malfunction. (Galaxy A37 5G)
+Hard buttons
+Button 	Function
+Side button
+• 	When the device is off, press and hold to turn it on.
+• 	Press to turn on or lock the screen.
+• 	Press twice or press and hold to open the app or feature you
+set.
+Side button +
+Volume Down
+button
+• 	Press simultaneously to capture a screenshot.
+• 	Press and hold simultaneously to turn off the device.
+
+-- 8 of 137 --
+
+Getting started
+9
+Setting the Side button
+Select an app or feature to launch by pressing the Side button twice or pressing and
+holding the Side button.
+Open Settings, tap Advanced features → Side button, and then select an option you
+want.
+Soft buttons
+When you turn on the screen, the soft buttons will appear at the bottom of the screen.
+Refer to Navigation bar (soft buttons) for more information.
+Charging the battery
+Charge the battery before using it for the first time or when it has been unused for
+extended periods.
+Wired charging
+Connect the USB cable to the USB power adapter and plug the cable into the device’s
+multipurpose jack to charge the battery. After fully charging, disconnect the charger
+from the device.
+
+-- 9 of 137 --
+
+Getting started
+10
+Quick charging
+Use a super fast charger or fast charger.
+You can check the connection status of the charger by opening Settings and tapping
+Battery.
+• 	If fast charging does not work, open Settings, tap Battery → Charging settings,
+and then check if the feature you want is turned on. Also, check if the USB cable
+and the USB power adapter are connected properly.
+• 	You can charge the battery more quickly while the device or its screen is turned
+off.
+Charging other devices
+Use the USB cable to charge another mobile device with your phone’s battery.
+Connect your phone and the other device using your phone’s USB cable. A USB connector
+may be needed depending on the other device.
+When charging starts, the battery charging icon will appear on the other device’s screen.
+The app selection pop-up window that appears on your phone is for data transfer.
+Do not select an app from the pop-up window.
+Reducing the battery consumption
+Your device provides various options that help you conserve battery power.
+• 	Optimise the device using the device care feature.
+• 	When you are not using the device, turn off the screen by pressing the Side button.
+• 	Turn on power saving mode.
+• 	Close unnecessary apps.
+• 	Turn off the Bluetooth feature when not in use.
+• 	Turn off auto-syncing of apps that need to be synced.
+• 	Decrease the backlight time.
+• 	Decrease the screen brightness.
+
+-- 10 of 137 --
+
+Getting started
+11
+Battery charging tips and precautions
+• 	Use only Samsung-approved battery specifically designed for your device.
+Incompatible batteries can cause serious injuries or damage to your device.
+• 	Use of Samsung-approved chargers and cables specifically designed for your
+device is recommended. Use of incompatible chargers or cables may result in
+injury or damage to the device.
+• 	Connecting the charger improperly may cause serious damage to the device. Any
+damage caused by misuse is not covered by the warranty.
+• 	Use of the USB Type-C cable supplied with the device is recommended. Using a
+Micro USB cable may cause damage to the device.
+• 	If you charge the device while the multipurpose jack is wet, the device may be
+damaged. Thoroughly dry the multipurpose jack before charging the device.
+• 	To save energy, unplug the charger when not in use. The charger does not have a
+power switch, so you must unplug the charger from the electric socket when not
+in use to avoid wasting power. The charger should remain close to the electric
+socket and easily accessible while charging.
+• 	Use of a charger approved by Samsung that guarantees charging performance is
+recommended.
+• 	If the battery is completely discharged, the device cannot be turned on
+immediately when the charger is connected. Allow a depleted battery to charge
+for a few minutes before turning on the device.
+• 	If you use multiple apps at once, network apps, or apps that need a connection
+to another device, the battery will drain quickly. To avoid losing power during a
+data transfer, always use these apps after fully charging the battery.
+• 	Using a power source other than the charger, such as a computer, may result in a
+slower charging speed because of a lower electric current.
+• 	The device can be used while it is charging, but it may take longer to fully charge
+the battery.
+• 	If the device receives an unstable power supply while charging, the screen may
+not function. If this happens, unplug the charger from the device.
+• 	While charging, the device and the charger may heat up. This is normal and
+should not affect the device’s lifespan or performance. If the battery gets hotter
+than usual, the charger may stop charging.
+• 	If the device is not charging properly, take the device and the charger to a
+Samsung Service Centre or an authorised service centre.
+
+-- 11 of 137 --
+
+Getting started
+12
+Nano-SIM card and eSIM
+Insert the nano-SIM card or download the eSIM provided by your carrier.
+Differing from a physical nano-SIM card, an eSIM is an embedded digital SIM. To have
+two phone numbers or carriers for a single device, insert another nano-SIM card or
+download another eSIM.
+• 	eSIM may not be available depending on the region, carrier, or model.
+• 	Some services that require a network connection may not be available
+depending on the carrier.
+• 	Using both the nano-SIM card and the eSIM, or two eSIMs may result in slower
+data transfer speeds in some areas.
+Inserting the nano-SIM card
+▶ Galaxy A57 5G:
+1 	2 	3 	4
+Single nano-SIM
+card tray
+Dual nano-SIM
+card tray
+<Underside>
+
+-- 12 of 137 --
+
+Getting started
+13
+▶ Galaxy A37 5G:
+1 	2 	3 	4
+Single nano-SIM card
+tray
+Dual nano-SIM card
+tray
+<Underside>
+1 	Insert the ejection pin into the hole on the tray to loosen the tray.
+2 	Pull out the tray gently from the tray slot.
+3 	Place the nano-SIM card on the tray with the gold-coloured contacts facing upwards
+and gently press the nano-SIM card into the tray to secure it.
+4 	Insert the tray back into the tray slot.
+• 	Insert the ejection pin into the tray’s hole to remove the tray.
+• 	Use only a nano-SIM card.
+• 	Use caution not to lose or let others use the nano-SIM card. Samsung is not
+responsible for any damages or inconveniences caused by lost or stolen cards.
+• 	Ensure that the ejection pin is perpendicular to the hole. Otherwise, the device
+may be damaged.
+• 	If the card is not fixed firmly into the tray, the nano-SIM card may leave or fall
+out of the tray.
+• 	If you insert the tray into your device while the tray is wet, your device may be
+damaged. Always make sure the tray is dry.
+• 	Fully insert the tray into the tray slot to prevent liquid from entering your device.
+Downloading an eSIM
+Open Settings, tap Connections → SIM manager → Add eSIM, and then follow the
+on-screen instructions to download the eSIM.
+If you have a QR code provided by your carrier, open Settings, tap Connections → SIM
+manager → Add eSIM → Scan QR code, and then scan the QR code.
+
+-- 13 of 137 --
+
+Getting started
+14
+SIM manager (dual SIM models)
+Open Settings and tap Connections → SIM manager.
+• 	SIM cards: Activate the nano-SIM card to use and customise the nano-SIM card
+settings.
+• 	eSIMs: Download or activate the eSIM.
+• 	Preferred SIMs: Select to use specific SIM cards for some features, such as voice
+calls, when two cards are activated.
+• 	Data switching: Set the device to use another SIM card for data services if the
+preferred SIM card cannot connect to the network.
+You may incur additional charges when using this feature.
+• 	More SIM settings: Customise additional settings.
+• 	Privacy: Access the Privacy Notice and the Terms and Conditions.
+Turning the device on and off
+Follow all posted warnings and directions from authorised personnel in areas
+where the use of wireless devices is restricted, such as aeroplanes and hospitals.
+Turning the device on
+Press and hold the Side button for a few seconds to turn on the device.
+Turning the device off
+1 	To turn off the device, press and hold the Side button and the Volume Down button
+simultaneously. Alternatively, open the quick settings panel and tap the Power off
+icon ( 	).
+2 	Tap Power off → Power off.
+To restart the device, tap Restart → Restart.
+If you want to set the device to turn off when you press and hold the Side button,
+tap Side button settings → Long press → Power off menu.
+
+-- 14 of 137 --
+
+Getting started
+15
+Forcing restart
+If your device is frozen and unresponsive, press and hold the Side button and the Volume
+Down button simultaneously for more than 7 seconds to restart it.
+Emergency calls and medical information
+You can make an emergency call or check the medical information you saved.
+Press and hold the Side button and the Volume Down button simultaneously, and then
+tap Emergency call or Medical info. Alternatively, open the quick settings panel and tap
+the Power off icon ( 	) → Emergency call or Medical info.
+To manage your medical information and emergency contacts, open Settings and
+tap Safety and emergency.
+Initial setup
+When you turn on your device for the first time or after performing a data reset, follow
+the on-screen instructions to set up your device.
+If you do not connect to a Wi-Fi network, you might not be able to set up some
+device features during the initial setup.
+Using networks
+You can use networks, such as a Wi-Fi, Bluetooth, NFC, or mobile network.
+Open Settings, tap Connections, and then tap the switch of the desired network to turn
+it on.
+For the mobile network, tap Data usage and tap the Mobile data switch to turn it on.
+When not using the network, tap the switch to turn it off.
+Some features may not be available depending on the model.
+
+-- 15 of 137 --
+
+Getting started
+16
+Samsung account
+Using the Samsung account, you can use a variety of Samsung services that are provided
+through mobile devices, TVs, and the Samsung website.
+To check the list of services that can be used with your Samsung account, visit
+account.samsung.com.
+1 	Open Settings and tap Sign in to your Galaxy.
+Alternatively, open Settings and tap Accounts and backup → Manage accounts →
+Add account → Samsung account.
+2 	Sign in to your Samsung account. If you do not have a Samsung account, tap Forgot
+password or don’t have an account? → Create account.
+Finding your ID and resetting your password
+If you forget your Samsung account ID or password, tap Forgot password or don’t have
+an account? → Forgot ID or Forgot password on the Samsung account sign-in screen.
+You can find your ID or reset your password after you enter the required information.
+Signing out of your Samsung account
+When you sign out of your Samsung account, your data, such as contacts or events, will
+also be removed from your device.
+1 	Open Settings and tap Accounts and backup → Manage accounts.
+2 	Tap Samsung account → My profile and tap Sign out at the bottom of the screen.
+3 	Tap Sign out → Confirm.
+4 	Enter your Samsung account password and tap OK.
+
+-- 16 of 137 --
+
+Getting started
+17
+Transferring data from your previous device
+(Smart Switch)
+Transfer data from your previous device with the USB cable or wirelessly. You can also
+transfer data from external storage or computer.
+Open Settings, tap Accounts and backup → Transfer data for device setup, and then
+follow the on-screen instructions to transfer data.
+Visit www.samsung.com/smartswitch for details and limitations.
+• 	To transfer data using external storage, tap the External storage icon ( 	).
+• 	To check the data that has been transferred, tap the More options icon ( ) → Transfer
+result.
+• 	This feature may not be supported on some devices or computers.
+• 	Samsung takes copyright seriously. Only transfer content that you own or have
+the right to transfer.
+
+-- 17 of 137 --
+
+Getting started
+18
+Understanding the screen
+Controlling the screen
+• 	Tapping: Tap the screen.
+• 	Touching and holding: Touch and hold the screen for approximately 2 seconds.
+• 	Dragging: Touch and hold an item and drag it to the target position.
+• 	Double tapping: Double tap the screen.
+• 	Swiping: Swipe upwards, downwards, to the left, or to the right.
+• 	Spreading and pinching: Spread two fingers apart or pinch on the screen.
+• 	Do not allow the screen to come into contact with other electrical devices.
+Electrostatic discharges can cause the screen to malfunction.
+• 	To avoid damaging the screen, do not tap it with anything sharp or apply
+excessive pressure to it with your fingertips or other object.
+• 	It is recommended not to use fixed graphics on part or all of the screen for
+extended periods. Doing so may result in afterimages (screen burn-in) or
+ghosting.
+The device may not recognise touch inputs close to the edges of the screen, which
+are outside of the touch input area.
+Navigation bar (soft buttons)
+When you turn on the screen, the soft buttons will appear on the navigation bar at the
+bottom of the screen. The soft buttons are set to the Recents button, Home button, and
+Back button by default. The functions of the buttons can change according to the app
+currently being used or usage environment.
+Button 	Function
+Recents ( 	) 	Tap to open the list of recent apps.
+Home ( 	)
+• 	Tap to return to the Home screen.
+• 	Touch and hold to launch Circle to Search. Tap or draw a circle
+around an image or text.
+Back ( 	) 	Tap to return to the previous screen.
+
+-- 18 of 137 --
+
+Getting started
+19
+Hiding the navigation bar
+Check files or use apps on a wider screen by hiding the navigation bar.
+Open Settings and tap Display → Navigation bar → Swipe gestures.
+Home screen and Apps screen
+The Home screen is the starting point for accessing all of the device’s features. It
+displays widgets, shortcuts to apps, and more.
+The Apps screen displays icons for all apps, including newly installed apps.
+Switching between Home and Apps screens
+On the Home screen, swipe upwards to open the Apps screen.
+To return to the Home screen, swipe upwards or downwards on the Apps screen.
+Alternatively, tap the Home button ( 	) or the Back button ( 	).
+Home screen 	Apps screen
+Finder	Favourite apps
+If you add the Apps button on the Home screen, you can open the Apps screen by
+tapping the button. On the Home screen, touch and hold an empty area, tap Settings,
+and then tap the Show Apps screen button on Home screen switch to turn it on. The
+Apps button ( 	) will be added at the bottom of the Home screen.
+
+-- 19 of 137 --
+
+Getting started
+20
+Editing the Home screen
+On the Home screen, touch and hold an empty area, or pinch your fingers together to
+access the editing options. You can set the wallpaper, add widgets, and more.
+• 	Wallpaper and style: Change the wallpaper settings for the Home screen and the
+locked screen.
+• 	Themes: Change the device’s theme. Visual elements of interface, such as colours,
+icons, and wallpapers, will change depending on the selected theme.
+• 	Widgets: Widgets are small apps that launch specific app features to provide
+information and convenient access on your Home screen. Select a widget and tap
+Add. The widget will be added on the Home screen.
+• 	Settings: Configure settings for the Home screen, such as the screen layout.
+You can also add, delete, or rearrange Home screen panels.
+• 	Adding panels: Swipe to the left, and then tap the Add page icon ( 	).
+• 	Moving panels: Drag a panel preview to a new location.
+• 	Deleting panels: Tap the Remove icon ( 	) on the panel.
+Displaying all apps on the Home screen
+Without using a separate Apps screen, you can set the device to display all apps on the
+Home screen. On the Home screen, touch and hold an empty area, and then tap Settings
+→ Home screen layout → Home screen only → Apply.
+Launching Finder
+Search for content on the device.
+1 	On the Apps screen, tap Search.
+2 	Enter a keyword.
+Apps and content on your device will be searched.
+If you tap the Search icon ( 	) on the keyboard, you can search for more content.
+
+-- 20 of 137 --
+
+Getting started
+21
+Moving items
+Drag an item to a new location. To move the item to another panel, drag it to the side of
+the screen. If you touch and hold an item and tap Select, you can select more items and
+move them together at once.
+To add a shortcut to an app on the Home screen, touch and hold an item on the Apps
+screen, and then tap Add to Home. A shortcut to the app will be added on the Home
+screen.
+You can also move frequently used apps to the shortcuts area at the bottom of the Home
+screen.
+Creating folders
+On the Home screen or the Apps screen, drag an app over another app.
+A new folder containing the selected apps will be created. Tap Folder name and enter a
+folder name.
+• 	Adding more apps
+Tap the Add apps icon ( 	) on the folder. Tick the apps to add and tap Done. You can
+also add an app by dragging it to the folder.
+• 	Moving apps from a folder
+Drag an app to a new location.
+• 	Deleting a folder
+Touch and hold a folder, and then tap Delete. Only the folder will be deleted. The
+folder’s apps will be relocated to the Apps screen.
+
+-- 21 of 137 --
+
+Getting started
+22
+Edge panel
+You can access your favourite apps and features from the Edge panels.
+Drag the Edge panel handle towards the centre of the screen.
+If the Edge panel handle is not visible, open Settings, tap Display, and then tap the Edge
+panels switch to turn it on.
+Edge panel handle 	Edge panel
+Edge panel settings
+Lock screen
+Pressing the Side button turns off the screen and locks it. Also, the screen turns off and
+automatically locks if the device is not used for a specified period.
+To unlock the screen, swipe in any direction except downwards when the screen turns
+on.
+If the screen is off or the Always On Display is on, press the Side button or double tap the
+screen. For more information about the Always On Display, refer to Always On Display.
+
+-- 22 of 137 --
+
+Getting started
+23
+Editing shortcuts
+You can change the shortcuts at the bottom of the locked screen to other apps or
+features you want.
+Touch and hold on the locked screen, tap the shortcut icon, select an app or feature you
+want, and then tap Done.
+Changing the screen lock method
+To change the screen lock method, open Settings, tap Lock screen and AOD → Screen
+lock and biometrics, and then select a method.
+When you set a pattern, PIN, password, or your biometric data for the screen lock
+method, you can protect your personal information by preventing others from accessing
+your device. After setting the screen lock method, the device will require an unlock code
+whenever unlocking it.
+You can set your device to perform a factory data reset if you enter the unlock code
+incorrectly several times in a row and reach the attempt limit. Open Settings, tap
+Lock screen and AOD → Secure lock settings, unlock the screen using the preset
+screen lock method, and then tap the Auto factory reset switch to turn it on.
+Indicator icons
+Indicator icons appear on the status bar at the top of the screen. The icons listed in the
+table are most common.
+Icon 	Meaning
+New notifications
+No signal
+Signal strength
+Roaming (outside of normal service area)
+GPRS network connected
+EDGE network connected
+UMTS network connected
+HSDPA network connected
+
+-- 23 of 137 --
+
+Getting started
+24
+Icon 	Meaning
+HSPA+ network connected
+/ 	LTE network connected
+5G network connected
+LTE network connected in LTE network that includes the 5G network
+Wi-Fi connected
+Bluetooth feature turned on
+Location services being used
+Call in progress
+Missed call
+Alarm turned on
+/ 	Mute mode / Vibration mode
+Flight mode turned on
+Error occurred or caution required
+/ 	Battery charging / Battery power level
+• 	The status bar may not appear at the top of the screen in some apps. To display
+the status bar, drag down from the top of the screen.
+• 	Some indicator icons appear only when you open the notification panel.
+• 	Some notifications will be displayed as a dot.
+• 	The indicator icons may appear differently depending on the carrier or model.
+
+-- 24 of 137 --
+
+Getting started
+25
+Notification panel
+When you receive new notifications, indicator icons appear on the status bar. Open the
+notification panel to check the details.
+To open the notification panel, swipe downwards from the top of the screen, except for
+the right side. To close the notification panel, swipe upwards on the screen.
+Check the
+notification
+details and
+perform various
+actions.
+Clear all
+notifications.
+Access the
+notification
+settings.
+
+-- 25 of 137 --
+
+Getting started
+26
+Quick settings panel
+You can turn specific features on or off, such as the Wi-Fi or Bluetooth feature, by
+tapping each button.
+To open the quick settings panel, swipe downwards from the top right side of the screen.
+To close the quick settings panel, swipe upwards on the screen.
+To access more detailed settings, touch and hold a button. To edit buttons, tap the Edit
+icon ( 	) → Edit.
+Check more
+buttons.
+This image may differ depending on the region or model.
+Controlling media playback
+Control media on your phone and connected nearby devices on the quick settings panel.
+1 	Open the quick settings panel and tap Media output.
+2 	Tap the icons on the controller to control the playback.
+
+-- 26 of 137 --
+
+Getting started
+27
+Controlling nearby devices
+Control nearby connected devices or connect other nearby devices on the quick settings
+panel.
+1 	Open the quick settings panel and tap Nearby devices.
+Nearby connected devices will appear with a line connecting them to the circle
+around your phone.
+2 	Select a nearby device to control it.
+• 	To connect other nearby devices, drag a device from the panel at the bottom of the
+screen to the circle.
+• 	To end the connection, drag the device to the panel at the bottom of the screen
+and tap Disconnect.
+Controlling frequently used devices
+Control devices connected to device control apps, such as SmartThings, and manual
+routines on the quick settings panel.
+1 	Open the quick settings panel and tap SmartThings.
+2 	Tap the switch next to the app you want to turn on and tap Start.
+Connected devices and manual routines will appear.
+3 	Select a device to control it, or select a manual routine to launch it.
+
+-- 27 of 137 --
+
+Getting started
+28
+Screen capture and screen record
+Screen capture
+Capture a screenshot while using the device and write on, draw on, crop, or share the
+captured screen. You can capture the current screen and scrollable area.
+How to capture a screenshot
+Use the following methods to capture a screenshot. You can check the captured
+screenshots in Gallery.
+• 	Button capture
+Press the Side button and the Volume Down button simultaneously.
+• 	Swipe capture
+With the edge of your hand, swipe your hand to the left or right across the screen.
+If capturing a screenshot by swiping is not turned on, open Settings, tap Advanced
+features → Motions and gestures, and then tap the Palm swipe to capture switch to
+turn it on.
+It is not possible to capture a screenshot while using some apps and features.
+After capturing a screenshot, use the following options on the toolbar at the bottom of
+the screen:
+• 	: Capture the current content and the hidden content on an elongated page,
+such as a webpage. When you tap the Scroll capture icon ( 	), the screen will
+automatically scroll down and more content will be captured.
+• 	: Write or draw on the screenshot or crop a portion from the screenshot. You can
+check the cropped area in Gallery.
+• 	: Add tags to the screenshot. To search for screenshots by tag, open the Gallery
+app and tap the Search icon ( 	). You can access the tags list and search for the
+screenshot you want.
+
+-- 28 of 137 --
+
+Getting started
+29
+• 	: Share the screenshot with others.
+• 	: Select an area and perform actions, such as sharing or saving. Tap or draw a
+circle around the content you want to select. Then, select an option to use with the
+selected area.
+If the options are not visible on the captured screen, open Settings, tap Advanced
+features → Screenshots and screen recordings, and then tap the Show toolbar
+after capturing switch to turn it on.
+Screen record
+Record the screen while using your device.
+1 	Open the quick settings panel, tap the Expand icon ( 	), and then tap Screen
+recorder ( 	).
+2 	Customise the settings and tap Start recording.
+After a countdown, recording will start.
+• 	To write or draw on the screen, tap the Draw icon ( 	).
+• 	To record the screen with a video overlay of yourself, tap the Selfie video icon ( 	).
+3 	When you are finished recording the video, tap the Stop icon ( 	).
+You can check the video in Gallery.
+To change the screen recorder settings, open Settings and tap Advanced features
+→ Screenshots and screen recordings.
+
+-- 29 of 137 --
+
+Getting started
+30
+Entering text
+Keyboard layout
+A keyboard appears automatically when you enter text.
+Break to the next line.
+Delete a preceding character.
+Enter symbols.
+Enter uppercase. For all caps, tap
+it twice.
+Additional keyboard functions
+Enter a space.
+Access more keyboard functions.
+Text entry is not supported in some languages. To enter text, you must change the
+input language to one of the supported languages.
+Changing the input language
+Tap the Settings icon ( 	) → Languages and types → Manage input languages and
+select the languages to use. When you select two or more languages, you can switch
+between the input languages by tapping the Change language icon ( 	).
+To change the keyboard type, tap the Settings icon ( 	) → Languages and types, select a
+language, and then select the keyboard type you want.
+On a 3 x 4 keyboard, a key has three or four characters. To enter a character, tap the
+corresponding key repeatedly until the desired character appears.
+Using the input method button
+You can change the text input method by tapping the input method button on the
+navigation bar.
+To change the input method button on the navigation bar, touch and hold the input
+method button and select an option you want.
+• 	: Enter text by voice.
+• 	: Change the keyboard.
+If the input method button does not appear on the navigation bar, open Settings,
+tap General management → Keyboard, and then tap the Show input method
+button on navigation bar switch to turn it on.
+
+-- 30 of 137 --
+
+Getting started
+31
+Additional keyboard functions
+• 	: Enter avatars, stickers, and more. You can also enter your avatar stickers that
+look like you. Refer to Using Galaxy Avatar stickers for more information.
+• 	: Translate text and enter it.
+• 	: Add an item from the clipboard.
+• 	: Change the keyboard settings.
+Tap the Expand toolbar icon ( 	) to use more keyboard functions.
+• 	: Switch to one-handed operation mode.
+• 	: Change the keyboard mode.
+• 	: Edit the keyboard function list.
+Some features may not be available depending on the carrier or model.
+Copying and pasting
+1 	Touch and hold over text.
+2 	Drag the Left text selection icon ( 	) or the Right text selection icon ( 	) to select the
+desired text, or tap Select all to select all text.
+3 	Tap Copy or Cut.
+The selected text is copied to the clipboard.
+4 	Touch and hold where the text is to be inserted and tap Paste.
+Extracting text
+While using some apps, such as the Gallery or Camera app, you can extract text from
+images and use options, such as copying or sharing it. The following actions are an
+example of extracting text in the Gallery app.
+1 	While checking an image in the Gallery app, tap the Extract text icon ( 	).
+The Extract text icon ( 	) appears only when there is text to extract.
+2 	Select an area to extract text.
+3 	Select an option you want.
+
+-- 31 of 137 --
+
+32
+Apps and features
+Installing or uninstalling apps
+Galaxy Store
+Purchase and download apps. You can download apps that are specialised for Samsung
+Galaxy devices.
+Open the Store app. Browse apps by category or tap the Search icon ( 	) to search for a
+keyword.
+• 	This app may not be available depending on the carrier or model.
+• 	To change the auto update settings, tap Menu → the Settings icon ( 	) → Auto
+update apps, and then select an option.
+Play Store
+Purchase and download apps.
+Open the Play Store app. Browse apps by category or search for apps by keyword.
+To change the auto update settings, tap your account icon, tap Settings → Network
+preferences → Auto-update apps, and then select an option.
+Managing apps
+Uninstalling or disabling apps
+Touch and hold an app and select an option.
+• 	Uninstall: Uninstall downloaded apps.
+• 	Disable: Disable selected default apps that cannot be uninstalled from the device.
+Some apps may not support this feature.
+
+-- 32 of 137 --
+
+Apps and features
+33
+Enabling apps
+Open Settings, tap Apps → the Sort icon ( 	) → Disabled → OK, select an app, and then
+tap Enable.
+Setting app permissions
+For some apps to operate properly, they may need permission to access or use
+information on your device.
+To access your app permission settings, open Settings and tap Apps. Select an app and
+tap Permissions. You can check the app’s permissions list and change its permissions.
+To check or change app permission settings by permission category, open Settings and
+tap Apps → the More options icon ( ) → Permission manager. Select an item and select
+an app.
+If you do not grant permissions to apps, the basic features of the apps may not
+function properly.
+Phone
+Introduction
+Make or answer voice and video calls.
+Making calls
+1 	Open the Phone app and tap Keypad.
+2 	Enter a phone number.
+3 	Tap the Voice call icon ( 	) to make a voice call, or tap the Video call icon ( 	) or the
+Meet video call icon ( 	) to make a video call.
+Making calls from call logs or contacts list
+Open the Phone app, tap Recents or Contacts, and then swipe to the right on a contact
+or a phone number to make a call.
+If this feature is turned off, tap the More options icon ( ) → Settings → Other call
+settings, and then tap the Swipe to call or text switch to turn it on.
+
+-- 33 of 137 --
+
+Apps and features
+34
+Using speed dial
+To set a number to speed dial, open the Phone app, tap Keypad → the More options icon
+( ) → Speed dial numbers, select a speed dial number, and then add a phone number.
+To make a call, touch and hold a speed dial number on the keypad. For speed dial
+numbers 10 and up, tap the first digit(s) of the number, and then touch and hold the last
+digit.
+For example, if you set the number 123 as a speed dial number, tap 1, tap 2, and then
+touch and hold 3.
+Making an international call
+1 	Open the Phone app and tap Keypad.
+2 	Touch and hold 0 until the + sign appears.
+3 	Enter the country code, area code, and phone number, and then tap the Call icon ( 	).
+Receiving calls
+Answering a call
+When a call comes in, drag the Answer icon ( 	) outside the large circle.
+Rejecting a call
+When a call comes in, drag the Decline icon ( 	) outside the large circle.
+To send a message when rejecting an incoming call, drag the Send message bar upwards
+and select a message to send. If you tap the Reminder icon ( 	) and send the message,
+you can receive a reminder one hour later.
+To create various rejection messages, open the Phone app and tap the More options icon
+( ) → Settings → Quick decline messages. Tap the Add icon ( 	), enter a message, and
+then tap Save.
+
+-- 34 of 137 --
+
+Apps and features
+35
+Blocking phone numbers
+Block calls from specific numbers added to your block list.
+Open the Phone app, tap the More options icon ( ) → Settings → Block numbers, and
+then select contacts or phone numbers to save in the blocked numbers list.
+When blocked numbers try to contact you, you will not receive notifications. The calls
+will be logged in the call log.
+You can also block incoming calls from people that do not show their caller ID. Tap
+the Block calls from unknown numbers switch to turn the feature on.
+Options during calls
+• 	: Switch to a video call.
+• 	Text call: Communicate with the other party through text. To use this feature, open
+the Phone app, tap the More options icon ( ) → Settings → Text call, and then tap
+the switch to turn it on.
+• 	Add call: Dial a second call. The first call will be put on hold. When you end the
+second call, the first call will be resumed.
+• 	Hold call: Hold a call.
+• 	Mute: Turn off the microphone so that the other party cannot hear you.
+• 	Bluetooth: Switch to a Bluetooth headset if it is connected to the device.
+• 	Speaker: Turn speakerphone off or on. When using the speakerphone, keep the
+device away from your ears.
+• 	Keypad / Hide: Open or close the keypad.
+• 	: End the current call.
+• 	: During a video call, switch to a voice call.
+• 	: Set the device to change the angle and zoom automatically by recognising and
+tracking people during a video call.
+• 	: During a video call, lock the screen.
+• 	Effects: During a video call, apply various effects.
+• 	: During a video call, change the screen ratio.
+• 	Camera: During a video call, turn off the camera so that the other party cannot see
+you.
+• 	Switch: During a video call, switch between the front and rear cameras.
+Some features may not be available depending on the carrier or model.
+
+-- 35 of 137 --
+
+Apps and features
+36
+Contacts
+Introduction
+Create new contacts or manage contacts on the device.
+Adding contacts
+Creating a new contact
+1 	Open the Contacts app and tap the Create icon ( 	).
+2 	Select a storage location.
+When using this feature for the first time, you can set the default storage location.
+To change the default storage location, tap the More options icon ( ) → Settings →
+Default storage location and select the desired location.
+3 	Enter contact information and tap Save.
+Importing contacts
+Add contacts by importing them from other storages to your device.
+1 	Open the Contacts app and tap the More options icon ( ) → Settings → Import
+contacts.
+2 	Follow the on-screen instructions to import contacts.
+Syncing contacts with your web accounts
+Sync your device contacts with online contacts saved in your web accounts, such as your
+Samsung account.
+1 	Open Settings, tap Accounts and backup → Manage accounts and select the account
+to sync with.
+2 	Tap Sync account and tap the Contacts switch to turn it on.
+
+-- 36 of 137 --
+
+Apps and features
+37
+Searching for contacts
+Open the Contacts app. Tap the Search icon ( 	) at the top of the contacts list and enter
+search criteria.
+Tap the profile picture of a contact. Then take one of the following actions:
+• 	: Make a voice call.
+• 	: Compose a message.
+• 	/ 	: Make a video call.
+• 	: Compose an email.
+Deleting contacts
+1 	Open the Contacts app and tap the More options icon ( ) → Select.
+2 	Select contacts and tap Delete.
+To delete contacts one by one, tap the profile picture of a contact from the contacts list
+and tap More → Delete.
+Sharing contacts
+You can share contacts with others by using various sharing options.
+1 	Open the Contacts app and tap the More options icon ( ) → Select.
+2 	Select contacts and tap Share.
+3 	Select contact information to share and tap Done.
+4 	Select a sharing method.
+Creating groups
+You can add groups, such as family or friends, and manage contacts by group.
+1 	Open the Contacts app and tap Groups → the Create icon ( 	).
+2 	Follow the on-screen instructions to create a group.
+
+-- 37 of 137 --
+
+Apps and features
+38
+Merging duplicate contacts
+If your contacts list includes duplicate contacts, merge them into one to streamline your
+contacts list.
+1 	Open the Contacts app and tap the More options icon ( ) → Settings → Merge
+duplicate contacts.
+2 	Tick contacts and tap Merge.
+Setting up your profile
+You can set your profile picture and profile card.
+1 	Open the Contacts app and tap your profile.
+2 	Tap Create profile card.
+3 	Follow the on-screen instructions to set up your profile card.
+Tick Profile card and Picture and the image you select for the profile card will also be
+applied as your profile picture.
+4 	To change your profile picture, tap the profile picture and tap Edit.
+5 	Follow the on-screen instructions to set your profile picture.
+Sharing your profile
+People can view your profile when you call them or when they check your contact
+information.
+1 	Open the Contacts app and tap your profile.
+2 	Tap Profile card and picture and tap the Profile card and picture sharing switch to
+turn it on.
+
+-- 38 of 137 --
+
+Apps and features
+39
+Camera
+Introduction
+Take pictures and record videos using various modes and settings.
+Camera etiquette
+• 	Do not take pictures or record videos of other people without their permission.
+• 	Do not take pictures or record videos where legally prohibited.
+• 	Do not take pictures or record videos in places where you may violate other people’s
+privacy.
+Taking pictures
+1 	Open the Camera app.
+You can also open the app by pressing the Side button twice or dragging the Camera
+icon ( 	) to the left on the locked screen.
+• 	Some camera features are not available when you open the Camera app from
+the locked screen or when the screen is turned off while the screen lock method
+is set.
+• 	The camera automatically shuts off when unused.
+• 	Some methods may not be available depending on the carrier or model.
+2 	Tap the image on the preview screen where the camera should focus.
+To adjust the brightness of pictures, drag the adjustment bar that appears above or
+below the circular frame.
+
+-- 39 of 137 --
+
+Apps and features
+40
+3 	Tap the Take picture icon ( 	) to take a picture.
+To change the shooting mode, drag the shooting modes list to the left or right, or
+swipe to the left or right on the preview screen.
+Take a picture.
+Preview thumbnail
+Shooting modes list
+Quick controls	Zoom
+Switch between the front and
+rear cameras.
+Options for current shooting
+mode
+• 	The preview screen may vary depending on the shooting mode and which
+camera is being used.
+• 	The focus may not be clear if the subject is close. Take pictures or videos from a
+good distance.
+• 	If pictures you take appear blurry, clean the camera lens and try again.
+• 	Make sure that the lens is not damaged or contaminated. Otherwise, the device
+may not work properly in some modes that require high resolutions.
+• 	Your device’s camera features a wide-angle lens. Minor distortion may occur
+in wide-angle pictures or videos and does not indicate device performance
+problems.
+• 	The camera may fog up or form condensation if the device is exposed to sudden
+changes in air temperature, because of the difference in temperature outside
+and inside the camera cover. Try to avoid such conditions when planning to use
+the camera. If fogging does occur, allow the camera to dry naturally at room
+temperature before taking pictures or recording videos, otherwise results may
+look blurry.
+
+-- 40 of 137 --
+
+Apps and features
+41
+Using the camera button
+• 	Touch and hold the camera button to record a video.
+• 	If you drag the camera button to the Lock icon ( 	), you can record a video without
+holding the button.
+• 	To take burst shots, swipe the camera button to the edge of the screen and hold it.
+• 	If you add another camera button, you can move it anywhere on the screen and take
+pictures more conveniently. On the preview screen, tap the Quick controls icon ( 	)
+→ the Settings icon ( 	) → Shooting methods and tap the Floating Shutter button
+switch to turn it on.
+Editing the shooting modes list
+To edit the shooting modes list, tap MORE on the list, tap Edit, and then drag modes to
+where you want.
+Using zoom features
+To zoom in or out while using the rear camera, select the desired zoom icon on the
+preview screen.
+You can also select the desired zoom level from the zoom level list that appears when
+you tap the zoom icon.
+To adjust the zoom more precisely, drag the zoom icon, pinch, or spread two fingers
+apart on the preview screen.
+Zoom level list
+
+-- 41 of 137 --
+
+Apps and features
+42
+Locking the focus (AF) and exposure (AE)
+You can lock the focus or exposure on a selected area to prevent the camera from
+automatically adjusting based on changes to the subjects or light sources.
+Touch and hold the area to focus, the AF/AE frame will appear on the area and the focus
+and exposure setting will be locked. The setting remains locked even after you take a
+picture.
+This feature may not be available depending on the shooting mode.
+Options for current shooting mode
+On the preview screen, use the following options. To use more options, tap the Quick
+controls icon ( 	).
+• 	: Turn the flash on or off.
+• 	12M: Select a resolution for pictures.
+• 	: Turn the motion photo feature on or off. If you turn it on, a video clip will also be
+taken from a few seconds before tapping the camera button.
+• 	: Apply a filter effect.
+• 	: Apply beauty effects.
+• 	: Turn the super steady feature on or off.
+• 	: In PORTRAIT mode, adjust the light intensity. This option may not be available
+depending on the selected background effect.
+• 	: Select a frame rate for hyperlapse videos.
+• 	/ FHD: Select a resolution for videos.
+• 	: Select a metering method. This determines how light values are calculated.
+Centre-weighted metering ( 	) uses the light in the centre portion of the shot to
+calculate the exposure of the shot. Matrix metering ( 	) averages the entire scene.
+Spot metering ( 	) uses the light in a concentrated centre area of the shot to
+calculate the exposure of the shot.
+• 	: In FOOD mode, focus on a subject inside the frame and blur the image outside
+the frame.
+The available options may vary depending on the model or shooting mode.
+
+-- 42 of 137 --
+
+Apps and features
+43
+Photo mode
+The camera adjusts the shooting options automatically depending on the surroundings.
+On the shooting modes list, tap PHOTO and tap the Take picture icon ( 	) to take a
+picture.
+Changing the resolution
+You can take high-resolution pictures.
+In shooting options, tap 12M to change the resolution to the one you want, and take a
+picture.
+The resolution may vary depending on the model.
+Shot suggestions
+The camera suggests the ideal composition for the picture by recognising the position
+and angle of your subject.
+On the preview screen, tap the Quick controls icon ( 	) → the Settings icon ( 	) and tap
+the Shot suggestions switch to turn it on.
+1 	On the shooting modes list, tap PHOTO.
+A guide will appear on the preview screen.
+2 	Point the guide at the subject.
+The camera recognises the composition, and the recommended composition appears
+on the preview screen.
+3 	Move the device so the guide matches the recommended composition.
+When the ideal composition is achieved, the guide will change to yellow.
+4 	Tap the Take picture icon ( 	) to take a picture.
+Guide
+Ideal composition
+
+-- 43 of 137 --
+
+Apps and features
+44
+Taking selfies
+You can take self-portraits with the front camera.
+1 	On the preview screen, swipe upwards or downwards, or tap the Switch to the front
+camera icon ( 	) to switch to the front camera for self-portraits.
+2 	Face the front camera lens.
+To take self-portraits with a wide-angle shot of the landscape or people, tap the
+Switch to wide icon ( 	).
+3 	Tap the Take picture icon ( 	) to take a picture.
+Scanning documents or text
+You can scan documents or text.
+1 	On the shooting modes list, tap PHOTO.
+2 	Point the camera towards the object and tap the Scan documents and text icon ( 	).
+The Scan documents and text icon ( 	) will only appear when a document or text is
+detected.
+3 	Tap the Save icon ( 	).
+If you tap the Scan icon ( 	), you can also select an area to save.
+
+-- 44 of 137 --
+
+Apps and features
+45
+Video mode
+The camera adjusts the shooting options automatically depending on the surroundings.
+1 	On the shooting modes list, tap VIDEO and tap the Start recording icon ( 	) to record
+a video.
+• 	To switch between the front and rear cameras while recording, swipe upwards or
+downwards on the preview screen or tap the Switch to the front camera icon ( 	).
+• 	To capture an image from the video while recording, tap the Capture icon ( 	).
+2 	Tap the Stop recording icon ( 	) to stop recording the video.
+The optical zoom may not work in low-light environments.
+Stabilising videos (Super steady)
+If there is a lot of shaking when recording videos, use the Super steady feature for
+further video stabilisation.
+Tap VIDEO on the shooting modes list, tap the Super steady icon ( 	) on the shooting
+options to turn it on, and then record a video.
+Using the auto framing feature
+(Changing the shooting angle and zoom by tracking people)
+You can set the device to change the shooting angle and zoom automatically by
+recognising and tracking people while recording videos.
+On the shooting modes list, tap VIDEO, tap the Quick controls icon ( 	) → the Auto
+framing icon ( 	) to turn it on, and then record a video.
+
+-- 45 of 137 --
+
+Apps and features
+46
+Portrait mode
+By using Portrait mode, you can take pictures where the background is blurred and the
+subject stands out clearly. You can also apply a background effect and edit it after taking
+a picture.
+1 	On the shooting modes list, tap PORTRAIT.
+2 	▶ Galaxy A57 5G: Tap the Portrait icon ( 	) and select a background effect you want.
+To adjust the intensity of the background effect, drag the adjustment bar.
+▶ Galaxy A37 5G: Tap the Portrait icon ( 	) and drag the background blur adjustment
+bar to adjust the blur level.
+3 	When Ready appears on the preview screen, tap the Take picture icon ( 	) to take a
+picture.
+• 	Use this feature in a place that has sufficient light.
+• 	The background blur may not be applied properly in the following conditions:
+‒ 	The device or the subject is moving.
+‒ 	The subject is thin or transparent.
+‒ 	The subject has a similar colour to the background.
+‒ 	The subject or background is plain.
+Fun mode
+Take pictures or record videos with various effects.
+1 	On the shooting modes list, tap FUN.
+2 	Select an effect.
+3 	Tap the effect button to take a picture.
+To record a video, touch and hold the effect button.
+
+-- 46 of 137 --
+
+Apps and features
+47
+Pro mode / Pro video mode
+Capture pictures or videos while manually adjusting various shooting options, such as
+exposure value and ISO value.
+On the shooting modes list, tap MORE → PRO or PRO VIDEO. Select options and
+customise the settings, and then tap the Take picture icon ( 	) to take a picture or tap
+the Start recording icon ( 	) to record a video.
+If you want to check information for any option, select an option and tap the About
+selected setting icon ( 	). To reset the options you set, tap the Reset icon ( 	).
+Separating the focus area and the exposure area
+You can separate the focus area and the exposure area.
+Touch and hold the preview screen. The AF/AE frame will appear on the screen. Drag the
+frame to the area where you want to separate the focus area and the exposure area.
+Night mode
+Take a picture in low-light conditions, without using the flash. When you use a tripod,
+you can get brighter and steadier results.
+1 	On the shooting modes list, tap MORE → NIGHT.
+2 	Tap the Take picture icon ( 	) and hold your device steady until shooting is complete.
+
+-- 47 of 137 --
+
+Apps and features
+48
+Food mode
+Take pictures of food with more vibrant colours.
+1 	On the shooting modes list, tap MORE → FOOD.
+A frame will appear on the screen and the area outside the frame will be blurred.
+2 	To resize the frame, drag a corner of the frame.
+Tap the area you want or drag the frame to move it.
+3 	Tap the Quick controls icon ( 	) → the Colour temperature icon ( 	) and drag the
+adjustment bar to adjust the colour temperature.
+4 	Tap the Take picture icon ( 	) to take a picture.
+Panorama mode
+Using panorama mode, take a series of pictures and then stitch them together to create
+a wide scene.
+1 	On the shooting modes list, tap MORE → PANORAMA.
+2 	Tap the Take picture icon ( 	) and move the device slowly in one direction.
+Keep the image within the frame on the camera’s viewfinder. If the preview image is
+out of the guide frame or you do not move the device, the device will automatically
+stop taking pictures.
+3 	Tap the Done icon ( 	) to stop taking pictures.
+Avoid taking pictures of indistinct backgrounds, such as an empty sky or a plain
+wall.
+Macro mode
+Take pictures of subjects at close range.
+On the shooting modes list, tap MORE → MACRO.
+
+-- 48 of 137 --
+
+Apps and features
+49
+Super Slow-mo mode (Galaxy A37 5G)
+Super slow motion is a feature that records a quickly passing moment slowly so that you
+can appreciate it later.
+1 	On the shooting modes list, tap MORE → SUPER SLOW-MO and tap the Start
+recording icon ( 	) to record a video.
+The device will capture the moment in super slow motion and save it as a video.
+2 	On the preview screen, tap the preview thumbnail.
+To edit the super slow motion section, tap the Edit icon ( 	) → the Speed icon ( 	)
+and drag the section editing bar to the left or right.
+Start bracket
+Super slow motion section
+End bracket
+Section editing bar
+Use this feature in a place that has sufficient light. When recording a video indoors
+with insufficient or poor lighting, the screen may appear dark or be grainy. The
+screen may flicker in certain lighting conditions, such as in places with fluorescent
+lighting.
+Slow motion mode
+Record a video for viewing it in slow motion. You can specify sections of your videos to be
+played in slow motion.
+1 	On the shooting modes list, tap MORE → SLOW MOTION and tap the Start recording
+icon ( 	) to record a video.
+2 	When you are finished recording, tap the Stop recording icon ( 	) to stop.
+3 	On the preview screen, tap the preview thumbnail.
+The fast section of the video will be set as a slow motion section and the video will
+start playing. Up to two slow motion sections will be created based on the video.
+To edit the slow motion section, tap the Edit icon ( 	) → the Speed icon ( 	) and drag
+the section editing bar to the left or right.
+Start bracket
+Slow motion section
+End bracket
+Section editing bar
+
+-- 49 of 137 --
+
+Apps and features
+50
+Hyperlapse mode
+Record scenes, such as passing people or cars, and view them as fast-motion videos.
+1 	On the shooting modes list, tap MORE → HYPERLAPSE.
+2 	Tap the Speed icon ( 	) and select a frame rate option.
+• 	If you set the frame rate to AUTO, the device will automatically adjust the frame
+rate according to the changing rate of the scene.
+• 	If you want to record star trails, set the frame rate to the Night three hundred
+times faster icon ( 	) and tap the Star trails icon ( 	).
+3 	Tap the Start recording icon ( 	) to start recording.
+4 	Tap the Stop recording icon ( 	) to finish recording.
+You can use the night hyperlapse feature by tapping the Speed icon ( 	) → the
+Night fifteen times faster icon ( 	) or the Night forty five times faster icon ( 	)
+on the shooting options. This feature is good for doing things like taking shots from
+moving cars that make the light look like it is also moving.
+Customising camera settings
+On the preview screen, tap the Quick controls icon ( 	) → the Settings icon ( 	). Some
+options may not be available depending on the shooting mode.
+Intelligent features
+• 	Scan documents and text: When a document or text is detected by the rear camera,
+the Scan documents and text icon ( 	) will appear.
+• 	Scan QR codes: Set the device to scan QR codes from the preview screen.
+• 	Shot suggestions: Set the device to suggest the ideal composition for the picture by
+recognising the position and angle of your subject.
+• 	Scene detection: Set the device to adjust the colour settings and apply the
+optimised effect automatically depending on the subject or scene.
+• 	Custom filters: Create your own filter using an image with a colour tone you like
+from Gallery.
+
+-- 50 of 137 --
+
+Apps and features
+51
+Photos
+• 	Auto HDR: Take pictures with rich colours and reproduce details even in bright and
+dark areas.
+• 	Photo format: Select how you want to save picture.
+‒ 	High efficiency pictures: Take pictures in the High Efficiency Image Format
+(HEIF).
+‒ 	Pro mode picture format: Select the file format for saving pictures taken in pro
+mode. JPEG files compress pictures and take up less storage. RAW files (DNG file
+format) retain all of a picture’s data for the best image quality and save pictures
+as uncompressed, but they take up more storage. When you select RAW and JPEG
+formats, each picture is saved in two formats, DNG and JPG.
+• 	Watermark: Add a watermark when taking pictures.
+Videos
+• 	High efficiency videos: You can record videos in the High Efficiency Video Codec
+(HEVC) format. Your HEVC videos will be saved as compressed files to conserve the
+device’s storage.
+• 	You might not be able to play the HEVC videos on other devices or share
+them online.
+• 	You cannot record videos in the HEVC format in some shooting modes.
+• 	Auto FPS: Set the device to record brighter videos in low-light conditions by
+automatically optimising the frame rate.
+• 	Video stabilisation: Turn on anti-shake to reduce or eliminate blurry image resulting
+from camera shake while recording a video.
+• 	Audio options
+‒ 	360 audio recording: You can record more immersive 3D sound videos using
+Bluetooth headphones that support the 360 audio recording feature.
+‒ 	Audio playback: You can play media without pause while recording videos. Media
+will pause when the 360 audio recording feature is on.
+• 	Save to external storage: Save videos in the connected external storage.
+
+-- 51 of 137 --
+
+Apps and features
+52
+General
+• 	Composition guide: Display viewfinder guides to help composition when selecting
+subjects.
+• 	Location tags: Attach a GPS location tag to the picture.
+• 	GPS signal strength may decrease in locations where the signal is
+obstructed, such as between buildings or in low-lying areas, or in poor
+weather conditions.
+• 	Your location may appear on your pictures when you upload them to the
+internet. To avoid this, turn off the location tag setting.
+• 	Save selfies as previewed: Set the device to save pictures or videos as they appear
+on the preview screen when taken with the front camera without flipping them.
+• 	Swipe preview up/down to: Select an action to perform when you swipe upwards or
+downwards on the preview screen.
+• 	Shooting methods
+‒ 	Press Volume buttons to: Take pictures or record videos, zoom in or out, or control
+the volume using the Volume button.
+‒ 	Voice commands: Take pictures or record videos using voice commands.
+‒ 	Floating Shutter button: Add another movable button anywhere on the screen to
+take pictures.
+‒ 	Show palm: Show your palm to the front camera to take selfies or start recording
+videos.
+• 	Settings to keep: Keep the last settings you used, such as the shooting mode, when
+you open the camera.
+• 	Vibration feedback: Set the device to vibrate in certain situations, such as when you
+tap the camera button.
+• 	Camera Assistant: Download the Camera Assistant app and set additional camera
+settings.
+• 	Show Snapchat Lenses in Fun mode: Set the device to take pictures or record videos
+with various effects using unique Snapchat Lenses.
+
+-- 52 of 137 --
+
+Apps and features
+53
+Privacy
+• 	Permissions: Access the permissions required to use the Camera app.
+• 	Reset settings: Reset the camera settings.
+• 	About Camera: Check the Camera app version and legal information.
+• 	Contact us: Ask questions or check out the frequently asked questions.
+Some features may not be available depending on the model.
+Gallery
+Introduction
+Access images and videos stored in your device. You can also manage images and videos
+by album or create stories.
+Using Gallery
+Open the Gallery app.
+Search for images and videos.
+More options
+
+-- 53 of 137 --
+
+Apps and features
+54
+Viewing images
+Open the Gallery app and select an image. To view other files, swipe to the left or right
+on the screen.
+More options
+Delete the image.
+Share the image with others.
+Image and video thumbnail
+Modify the image.
+Photo assist
+View the content on a large
+screen using the Smart View
+feature.
+Add the image to favourites.
+Remastering images
+You can enhance the dull, blurry, and low-resolution images.
+1 	Open the Gallery app and select an image.
+2 	Swipe upwards on the screen and tap Remaster.
+You can check the before and after.
+3 	Tap the Save icon ( 	) to save the remastered image.
+
+-- 54 of 137 --
+
+Apps and features
+55
+Extracting objects from images
+Separate an object from the background and extract it. You can copy the extracted
+image or use it in various ways by saving it as a sticker or an image.
+1 	Open the Gallery app and select an image or a video.
+2 	Touch and hold on the object you want extract and select an option.
+For videos, this feature is only available when they are paused.
+Cropping enlarged images
+1 	Open the Gallery app and select an image.
+2 	Spread two fingers apart on the area you want to save and tap the Quick crop icon
+( 	).
+The cropped area will be saved as a file.
+
+-- 55 of 137 --
+
+Apps and features
+56
+Viewing videos
+Open the Gallery app and select a video to play. To view other files, swipe to the left or
+right on the screen.
+To use more options during playback, tap the More options icon ( ) → Open in Video
+player.
+Lock the playback
+screen.
+Skip to the previous
+video. Touch and hold
+to rewind.
+Capture the current
+screen.
+Create a GIF.
+Configure the caption
+settings.
+Rewind or fast-forward
+by dragging the bar.
+Switch to the pop-up
+video player.
+More options
+Rotate the screen.
+Change the playback
+speed.
+Skip to the next video.
+Touch and hold to
+fast-forward.
+Pause and resume
+playback.
+Change the screen
+ratio.
+View the content on a
+large screen using the
+Smart View feature.
+Drag up or down on the left side of the playback screen to adjust the brightness, or drag
+up or down on the right side of the playback screen to adjust the volume.
+To rewind or fast-forward, swipe to the left or right on the playback screen.
+
+-- 56 of 137 --
+
+Apps and features
+57
+Albums
+Open the Gallery app, tap Albums → the Create icon ( 	), and then select an album
+type.
+• 	Album: Create new albums and add images and videos manually.
+• 	Auto album: Create albums that automatically collect images of people you select.
+• 	Group: Create a group of related albums.
+• 	Shared album: Create albums that you can share with others.
+• 	Shared family album: Create albums that you can share with your family.
+Some features may not be available depending on the region or the model.
+Collections
+Images and videos will be automatically sorted into the Stories, Screenshots, People,
+Locations, and Documents categories.
+Open the Gallery app, tap Collections, and then select a collection. If you want to change
+the categories that are displayed on the screen or change the order of the categories,
+tap Edit collections.
+Deleting images or videos
+Open the Gallery app, touch and hold an image, a video, or an album to delete, and then
+tap Delete.
+Using the recycle bin feature
+Images and videos you delete will be temporarily stored in the recycle bin. The files will
+be deleted after a certain period.
+To access files in the recycle bin, open the Gallery app and tap Menu → Recycle bin. To
+restore files, tap Select, select files, and then tap Restore.
+
+-- 57 of 137 --
+
+Apps and features
+58
+Bixby
+Bixby is a user interface that helps you use your device more conveniently. You can say
+what you want to Bixby. Bixby will launch a feature you request or show the information
+you want.
+Visit www.samsung.com/bixby for more information.
+Bixby is only available in some languages, and it may not be available depending
+on the region.
+Waking up Bixby
+While pressing and holding the Side button, say what you want to Bixby. To use this
+feature, open Settings and tap Advanced features → Side button → Long press →
+Bixby.
+Alternatively, say the wake-up phrase, such as “Hi, Bixby” or “Bixby”, and then say what
+you want.
+Setting a wake-up phrase
+1 	Open Settings and tap Advanced features → Bixby → Voice registration.
+2 	Select the wake-up phrase you want under Voice wake-up.
+When running this app for the first time or restarting it after performing a data
+reset, follow the on-screen instructions to complete the initial setup.
+
+-- 58 of 137 --
+
+Apps and features
+59
+Multi window
+(Using multiple apps at once)
+Run apps at the same time in split screen view or multiple apps in the pop-up view.
+Some apps may not support this feature.
+Split screen view 	Pop-up view
+Launching Multi window
+• 	Recents button
+Tap the Recents button ( 	), tap an app’s icon, and then tap Open in split screen
+view or Open in pop-up view.
+• 	Swipe screen
+Open Settings, tap Advanced features → Multi window, and then tap the Swipe for
+split screen or Swipe for pop-up view switch to turn it on.
+• 	Drag the circles ( 	) between the app windows to adjust the size of the
+windows.
+• 	Tap the circles ( 	) between the app windows and tap the Add app pair icon
+( 	). The apps you are using in the split screen view will be saved as an app pair.
+• 	Drag the multi window handle ( 	) to a new location to move the app window.
+• 	When you tap the multi window handle ( 	), the available menus will appear.
+
+-- 59 of 137 --
+
+Apps and features
+60
+Samsung Internet
+Browse the internet to search for information and bookmark your favourite webpages to
+access them conveniently.
+1 	Open the Internet app.
+2 	Enter the web address or a keyword, and then tap Go.
+If the toolbar does not appear, swipe downwards slightly on the screen.
+To switch between tabs, tap the Tabs icon ( 	) or swipe to the left or right on the address
+field.
+Bookmark the current webpage.
+Open the homepage.
+Read the webpage aloud.
+Move between pages. 	More options
+Refresh the current webpage.
+Manage tabs. / Use Secret mode.
+Access your bookmarks.
+Using Secret mode
+If you set a password for Secret mode, you can prevent others from accessing your search
+history, browsing history, bookmarks, and saved pages.
+1 	Tap the Tabs icon ( 	) → the Turn on Secret mode icon ( 	).
+2 	Tap the Lock Secret mode switch to turn it on, tap Start, and then set a password for
+Secret mode.
+In Secret mode, the device will change the colour of the toolbars. To turn off Secret
+mode, tap the Tabs icon ( 	) → the Tabs icon ( 	).
+
+-- 60 of 137 --
+
+Apps and features
+61
+Samsung Wallet
+Introduction
+Use various convenient features in Samsung Wallet. You can make a payment, verify your
+identity through your biometric data, check tickets or boarding passes, and more.
+You can check out more information, such as cards that support this feature at
+www.samsung.com/samsung-wallet.
+Open the Wallet app and select a feature you want.
+• 	This app may not be available depending on the region.
+• 	Some features may not be available depending on the region.
+Setting up Samsung Wallet
+When running this app for the first time or restarting it after performing a data reset,
+follow the on-screen instructions to complete the initial setup.
+1 	Open the Wallet app.
+2 	Sign in to your Samsung account and read and agree to the terms and conditions.
+3 	Register your fingerprint and a PIN to use when making payments.
+This PIN will be used to verify various actions in Samsung Wallet, such as making
+payments and unlocking the app.
+Using Samsung Pay
+Register cards to Samsung Pay to make both online and offline payments.
+• 	To make payments with Samsung Pay, the device may be required a connection
+to a Wi-Fi or mobile network depending on the region.
+• 	This feature may not be available depending on the carrier or model.
+• 	The procedures for the initial setup and card registration may vary depending on
+the carrier or model.
+
+-- 61 of 137 --
+
+Apps and features
+62
+Registering cards
+Open the Wallet app and follow the on-screen instructions to complete your card
+registration.
+Making payments
+1 	Drag a card image at the bottom of the screen upwards. Alternatively, open the
+Wallet app. Then, on the cards list, swipe to the left or right and select a card to use.
+2 	Scan your fingerprint or enter the payment PIN you set.
+3 	Touch the back of your device to the card reader.
+When the card reader recognises the card information, the payment will be
+processed.
+• 	Payments may not be processed depending on your network connection.
+• 	The verification method for payments may vary depending on the card readers.
+Cancelling payments
+You can cancel payments by visiting the place where you made them.
+On the cards list, swipe to the left or right to select the card you used. Follow the
+on-screen instructions to complete payment cancellation.
+Verifying identity
+Register your biometric data to Samsung Pass and verify your identity when using
+services which require your login or personal information. Refer to Samsung Pass for
+more information.
+Using tickets
+Add boarding passes and tickets for movies, sports, and more, to access and use them in
+one place.
+
+-- 62 of 137 --
+
+Apps and features
+63
+Using a digital key
+Register your vehicle’s digital key to your phone so you can unlock or lock the vehicle’s
+door and start the vehicle.
+Start registering a digital key by installing your vehicle’s digital key app or using the
+guide message, such as an email or text message, sent by your vehicle’s manufacturer.
+Then, follow the on-screen instructions on your vehicle’s navigation screen and your
+phone’s Samsung Wallet screen to complete the registration.
+• 	This feature may not be available depending on the region or model.
+• 	To use this feature, the vehicle must support the digital key feature. Check with
+your vehicle’s manufacturer for digital key support.
+• 	The registered digital key is only saved to your phone and, if the phone is
+replaced, the digital key must be registered again.
+• 	Some features may not be available depending on the vehicle. Check with your
+vehicle’s manufacturer for more information.
+Using a digital key with the NFC feature
+Touch the NFC antenna area of the phone with the digital key registered to the vehicle’s
+door. The door will unlock or lock.
+After you place the phone on the vehicle’s wireless charging pad and the digital key is
+authenticated, you can start the vehicle using the start button. If the digital key is not
+authenticated, try changing the position or orientation of the phone slightly.
+• 	To use this feature, the phone and vehicle must support the NFC feature.
+• 	To turn on the NFC feature on the phone, open Settings, tap Connections → NFC
+and contactless payments, and then tap the switch to turn it on.
+• 	To find out the location of the wireless charging pad and which of your vehicle’s
+doors support NFC, refer to your vehicle’s user guide.
+Deleting the digital key
+You can delete the registered digital key from your phone.
+Open the Wallet app, tap the registered digital key, and then tap the More options icon
+( ) → Delete.
+
+-- 63 of 137 --
+
+Apps and features
+64
+Samsung Health
+Samsung Health helps you manage your wellness and fitness. Set fitness goals, check
+your progress, and keep track of your overall wellness and fitness. You can also compare
+your step count records with other Samsung Health users and check out health tips.
+Open the Health app. Visit www.samsung.com/samsung-health for more information.
+Samsung Notes
+Create notes by entering text from the keyboard or by handwriting or drawing on the
+screen. You can also insert images or voice recordings into your notes.
+Creating notes
+1 	Open the Notes app, tap the Create icon ( 	), and then create a note.
+Enter a title. Insert files.
+Reading mode
+2 	When you are finished composing the note, tap the Back button ( 	) to save it.
+If you want to save the note in another file format, tap the More options icon ( ) →
+Save as.
+Deleting notes
+Touch and hold a note to delete and tap Delete.
+Syncing notes
+You can check and edit notes on all your devices signed in to the same Samsung account.
+Open the Notes app, tap the Navigation drawer icon ( 	) → the Settings icon ( 	), and
+then tap the Sync with Samsung Cloud switch to turn it on.
+
+-- 64 of 137 --
+
+Apps and features
+65
+Samsung Members
+Samsung Members offers support services to customers, such as device problem
+diagnosis, and lets users submit questions and error reports. You can also share
+information with others in the Galaxy users’ community or check the latest news and
+tips. Samsung Members can help you solve any problems you might encounter while
+using your device.
+Samsung Kids
+You can restrict children’s access to certain apps, set their usage times, and configure
+settings to provide a fun and safe environment for children when they use the device.
+Open Settings and tap Apps → Samsung Kids → Open. When starting Samsung Kids
+for the first time or after performing a data reset, follow the on-screen instructions to
+complete the setup.
+On the Samsung Kids screen, select the app you want to use.
+Your preset screen lock method or your created PIN will be used when turning on
+the Parental controls feature or closing Samsung Kids.
+Using parental controls features
+You can configure the settings for Samsung Kids and check the usage history.
+On the Samsung Kids screen, tap the More options icon ( ) → Parental controls and
+enter your unlock code.
+Closing Samsung Kids
+To close Samsung Kids, tap the Back button ( 	) or tap the More options icon ( ) → Close
+Samsung Kids, and then enter your unlock code.
+
+-- 65 of 137 --
+
+Apps and features
+66
+Samsung Global Goals
+The Global Goals, which were set up by the United Nations General Assembly in 2015,
+consist of goals that aim to create a sustainable society. These goals have the power to
+end poverty, fight inequality, and stop climate change.
+With Samsung Global Goals, learn more about the global goals and join the movement
+for a better future.
+Samsung TV Plus
+Select the channels like you would use a TV and enjoy various video content free of
+charge.
+Open the TV app.
+This app may not be available depending on the carrier or model.
+Samsung Find
+You can locate your device even if it is not connected to a network. You can also share
+your location with other people you preset.
+Open the Find app.
+Samsung Shop
+Samsung Shop is the mobile shopping service provided by Samsung. Get offers or
+information about Samsung and its partners’ products and services.
+Open the Samsung Shop app.
+This app may not be available depending on the carrier or model.
+
+-- 66 of 137 --
+
+Apps and features
+67
+Samsung News
+Get the headlines and latest news from various sources. You can select and follow
+various topics and sources that interest you.
+Launch Samsung News using one of these methods.
+• 	Open the News app.
+• 	Swipe to the right on the Home screen. If the Samsung News screen does not
+appear, open Settings and tap Home screen → Add media page to Home screen →
+Samsung News. Alternatively, touch and hold an empty area on the Home screen,
+swipe to the right, and then tap Samsung News.
+• 	Tap the News widget on the Home screen. If the widget is not on the Home screen,
+on the Samsung News screen, tap the More options icon ( ) → Settings → Add
+widget to Home screen → Add. Alternatively, touch and hold an empty area on the
+Home screen, tap Widgets → News, select a widget, and then tap Add.
+Available features may vary depending on the device’s software version, app
+version, or model.
+Galaxy Shop
+Access the Samsung website and check various information related to products.
+Open the Galaxy Shop app.
+This app may not be available depending on the carrier or model.
+
+-- 67 of 137 --
+
+Apps and features
+68
+Galaxy Wearable
+Using the Galaxy Wearable app, you can manage your wearable devices. When you
+connect your phone to the wearable device, you can customise the wearable device’s
+settings and apps.
+Open the Wearable app.
+Tap Start to connect your phone to the wearable device. Follow the on-screen
+instructions to finish the setup. Refer to the wearable device’s user guide for more
+information about how to connect and use the wearable device with your device.
+Calendar
+Manage your schedule by entering upcoming events in your planner.
+Open the Calendar app and tap the Add event icon ( 	) or double tap a date. If the date
+already has saved events or tasks in it, tap the date and tap the Add event icon ( 	).
+Syncing events with your accounts
+1 	Open Settings, tap Accounts and backup → Manage accounts, and then select the
+account to sync with.
+2 	Tap Sync account and tap the Calendar switch to turn it on.
+To add accounts to sync with, open the Calendar app and tap the Navigation drawer icon
+( 	) → Manage calendars → the More options icon ( ) → Add account. Then, select an
+account to sync with and sign in.
+
+-- 68 of 137 --
+
+Apps and features
+69
+Reminder
+Register to-do items as reminders and receive notifications according to the condition
+you set.
+Open Settings and tap Apps → Reminder → Open. The Reminder screen will appear and
+the Reminder app icon ( 	) will be added to the Apps screen.
+• 	To receive more accurate notifications, connect to a Wi-Fi or mobile network.
+• 	To use location reminders, the GPS feature must be turned on. Location
+reminders may not be available depending on the model.
+Using Reminder
+Open the Reminder app.
+• 	To create reminders, tap the Add reminder.
+• 	To complete reminders, tap the Tick box icon ( 	) or select a reminder and tap
+Complete.
+• 	To restore reminders, tap Completed, select a reminder to restore, and then tap
+Restore.
+• 	To delete a reminder, select a reminder and tap Delete.
+
+-- 69 of 137 --
+
+Apps and features
+70
+Voice Recorder
+Record or play voice recordings.
+1 	Open the Voice Recorder app.
+2 	Tap the Record icon ( 	) to start recording. Speak into the microphone.
+• 	Tap the Pause icon ( 	) to pause recording.
+• 	While making a voice recording, tap the Add bookmark icon ( 	) to insert a
+bookmark.
+3 	Tap the Stop icon ( 	) to finish recording.
+4 	Enter a file name and tap Save.
+To record your voice and simultaneously convert it into on-screen text, tap
+Speech-to-text before starting the recording and select the language you want.
+(Galaxy A57 5G)
+Transcribing voice recordings (Galaxy A57 5G)
+Convert voice recordings into on-screen text and edit it.
+1 	Select a voice recording.
+2 	Tap the More options icon ( ) → Transcribe into text.
+3 	Select a button to start to transcribe the voice recording.
+If you want to transcribe the voice recording into another language, tap Transcribe
+into another language, select the language you want, and then tap Convert.
+4 	Tap the Save icon ( 	) to save the converted text.
+• 	To edit the converted text, tap the More options icon ( ) → Edit transcript text.
+• 	To remove the converted text from the voice recording, tap the More options icon
+( ) → Remove transcript.
+
+-- 70 of 137 --
+
+Apps and features
+71
+My Files
+(Checking and managing the files)
+Access and manage various files stored in the device.
+Open the My Files app.
+To check for unnecessary data and free up the device’s storage, tap Manage storage.
+To search for files or folders, tap Search.
+Clock
+Set alarms, check the current time in many cities around the world, time an event, or set
+a specific duration.
+Open the Clock app.
+Calculator
+Perform basic arithmetic or scientific calculations.
+Open the Calculator app.
+• 	: Check the calculation history. To clear the history, tap Clear history. To close the
+calculation history panel, tap the Keypad icon ( 	).
+• 	: Use the unit conversion tool. You can convert various values, such as area,
+length, or temperature, into other units.
+• 	: Display the scientific calculator.
+
+-- 71 of 137 --
+
+Apps and features
+72
+Gaming Hub
+Gaming Hub gathers your games downloaded from Play Store and Galaxy Store into one
+place.
+Open the Gaming Hub app and select the game you want.
+Games downloaded from Play Store and Galaxy Store will be automatically shown
+on the Gaming Hub screen. If your games are not there, tap the Expand icon ( 	) →
+the More options icon ( ) → Add games.
+Removing a game from Gaming Hub
+Tap the Expand icon ( 	), touch and hold a game, and then tap Remove from Gaming
+Hub.
+Game Booster
+(Configuring your gaming environment)
+You can play games in a better environment with Game Booster. You can use Game
+Booster while playing games.
+To open the Game Booster panel while playing games, tap the Game Booster icon ( 	)
+at the bottom of the screen. If the icon is hidden, drag upwards from the bottom of the
+screen to show it.
+Using Game Booster options
+Open the Game booster panel and use the following options. You can also check the
+device’s system status at the top of the Game Booster panel.
+• 	Performance: Focus on giving you high performance while playing games. If you use
+this mode, your device may heat up because of increased battery consumption.
+• 	Balanced: Balance the performance and the battery usage time.
+• 	Battery saver: Save battery power while playing games.
+• 	Game mode: Turn on or off the game mode you set.
+• 	System monitor: Display the system monitor on the screen.
+• 	Floating menu: Display the floating menu that has shortcuts to frequently used
+options on the screen. The floating menu will appear when you close the Game
+Booster panel. To edit the shortcuts on the menu, touch and hold the floating menu.
+
+-- 72 of 137 --
+
+Apps and features
+73
+• 	Touch protection: Lock the screen while the game is being played. To unlock the
+screen, drag the lock icon in any direction.
+• 	Screenshot: Capture screenshots.
+• 	Record: Record your game sessions. To stop recording, tap the Stop icon ( 	).
+• 	Block navigation buttons: Hide the buttons on the navigation bar. To display the
+buttons, tap the Navigation button lock icon ( 	) on the navigation bar.
+• 	Block edge panel: Hide the Edge panel handle while playing games.
+• 	Block auto brightness: Disable automatic screen brightness adjustments while
+playing games.
+• 	Block Bixby: Turn off Bixby while playing games.
+• 	: Edit the options and the list of apps to play in pop-up windows.
+• 	: Configure settings for Game Booster.
+• 	Available options may vary depending on the game.
+• 	Game performance may be limited to control the device’s temperature if the
+temperature rises above a certain level.
+• 	Battery power efficiency may vary by game.
+Opening apps in pop-up windows while playing games
+You can open apps in pop-up windows while playing a game.
+Open the Game Booster panel and select an app from the apps list.
+
+-- 73 of 137 --
+
+Apps and features
+74
+SmartThings
+Control and manage smart appliances and Internet of Things (IoT) products.
+Open the SmartThings app. For more information, tap Menu → How to use.
+Invite others using a QR code.
+Manage locations.
+More options
+Check and manage devices in
+Map view.
+Add devices or services, or create
+routines.
+• 	Home: Add and manage frequently used devices, routines, or services.
+• 	Devices: Add or manage devices.
+• 	Life: Use various services, such as checking the device status or energy usage, and
+saving energy by using AI energy mode.
+• 	Routines: Add or manage routines.
+• 	Menu: Check useful information, supported devices, how to use certain features, and
+more.
+• 	The devices you can connect may vary depending on the region. Available
+features may differ depending on the connected device.
+• 	Connected devices’ own problems or defects are not covered by the Samsung
+warranty. When problems or defects occur on the connected devices, contact the
+device’s manufacturer.
+
+-- 74 of 137 --
+
+Apps and features
+75
+Sharing content
+Share content by using various sharing options. The following actions are an example of
+sharing images.
+1 	Open the Gallery app and select an image.
+2 	Tap the Share icon ( 	) and select a sharing method you want.
+You may incur additional charges when sharing files through the mobile network.
+Quick Share
+Share content with nearby devices or people in your contacts.
+1 	Open the Gallery app and select an image.
+2 	On the other device, open Settings and tap Connected devices → Quick Share → Who
+can share with you → Your devices, Contacts, or Everyone → Done.
+3 	Tap the Share icon ( 	) → Quick Share and select a device to transfer the image to.
+• 	To share the link with a QR code, tap QR code or link and scan the QR code.
+• 	To share with contacts, tap Share to contacts.
+• 	To share encrypted content, tap the More options icon ( ) → Turn on Private
+sharing. Shared content cannot be saved, copied, or resent by the recipient.
+4 	Accept the file transfer request on the other device.
+Setting who can find your phone
+Set who is allowed to find and send content to your phone.
+1 	Open Settings and tap Connected devices → Quick Share → Who can share with you.
+2 	Select an option.
+• 	No one: Do not allow others to find your phone.
+• 	Your devices: Other devices signed in to the same Samsung account or Google
+Account can find your phone.
+• 	Contacts: Share with people saved in your contacts.
+• 	Everyone: Allow any nearby devices to share with your phone.
+
+-- 75 of 137 --
+
+Apps and features
+76
+Music Share
+Using the Music Share feature, you can share your Bluetooth speaker that is already
+connected to your phone with another person. You can also listen to the same music on
+your Galaxy Buds and another person’s Galaxy Buds.
+This feature is available only on devices that support the Music Share feature.
+Sharing a Bluetooth speaker
+On your phone, open Settings, tap Connected devices → Music Share, and then tap the
+switch to turn it on.
+Follow the on-screen instructions to share your Bluetooth speaker.
+Listening to music together with Galaxy Buds
+You can listen to music on your phone together through your Buds and your friend’s
+Buds.
+This feature is supported only on the Galaxy Buds series.
+1 	Make sure that each phone and pair of Buds are connected.
+Refer to Pairing with other Bluetooth devices for how to connect.
+2 	On your friend’s phone, open Settings, tap Connected devices, and then tap the
+Music Share switch to turn it on.
+You can use additional features, such as setting who to share your device with, by
+tapping Music Share.
+3 	On your phone, open the quick settings panel and tap Media output.
+4 	Select your friend’s Buds from the detected devices list.
+5 	On your friend’s phone, accept the connection request.
+When you play music through your phone, you can listen to it together through both
+Buds.
+
+-- 76 of 137 --
+
+Apps and features
+77
+Smart View
+(Mirroring on a TV screen)
+View your phone’s displayed content on a large screen by connecting your phone to a
+screen mirroring-enabled TV or monitor.
+1 	Open the quick settings panel and tap Smart View.
+2 	Select a device to mirror your phone’s screen.
+When you play a video with Smart View, the resolution may vary depending on the
+TV model.
+
+-- 77 of 137 --
+
+Apps and features
+78
+Google apps
+Google provides entertainment, social network, and business apps. You may require a
+Google Account to access some apps.
+To check out more app information, access each app’s help menu.
+• 	Chrome: Search for information and browse webpages.
+• 	Gmail: Send or receive emails through the Google Mail service.
+• 	Maps: Find your location on the map, search the world map, and access location
+information for various places around you.
+• 	YT Music: Enjoy various music and videos provided by YouTube Music. You can also
+access the music collections stored on your device and play them.
+• 	Google TV: Purchase or rent videos, such as movies and TV programmes, from Play
+Store.
+• 	Drive: Store your content on the cloud, access it from anywhere, and share it with
+others.
+• 	YouTube: Watch or create videos and share them with others.
+• 	Photos: Search for, manage, and edit all your pictures and videos from various
+sources in one place.
+• 	Google: Search for items on the internet or your device.
+• 	Meet: Make video calls or create or join video meetings.
+• 	Messages: Send and receive messages on your device or computer, and share
+various content, such as images and videos.
+• 	Gemini: Chat with Gemini to use various features, such as searching for information,
+creating custom images, or writing content.
+Some apps may not be available depending on the carrier or model.
+
+-- 78 of 137 --
+
+79
+Settings
+Introduction
+Customise device settings.
+On the Apps screen, tap Settings. Alternatively, open the quick settings panel and tap
+the Settings icon ( 	).
+To search for settings by entering keywords, tap Search. You can also search for settings
+by selecting a topic.
+Sign in to your Galaxy
+Sign in to your Samsung account and manage it.
+On the Settings screen, tap Sign in to your Galaxy.
+Connections
+Options
+Change settings for various connections, such as the Wi-Fi feature and Bluetooth.
+On the Settings screen, tap Connections.
+• 	Wi-Fi: Turn on the Wi-Fi feature to connect to a Wi-Fi network and access the
+internet or other network devices. Refer to Wi-Fi for more information.
+• 	Bluetooth: Use Bluetooth to exchange data or media files with other
+Bluetooth-enabled devices. Refer to Bluetooth for more information.
+• 	NFC and contactless payments: Read near field communication (NFC) tags that
+contain information about products. You can also use this feature to make payments
+and buy tickets for transportation or events after downloading the required apps.
+Refer to NFC and contactless payments for more information.
+
+-- 79 of 137 --
+
+Settings
+80
+• 	Flight mode: Set the device to turn off all wireless functions on your device. You can
+use only non-network services.
+Follow the regulations provided by the airline and the instructions of aircraft
+personnel. In cases where it is allowed to use the device, always use it in Flight
+mode.
+• 	SIM manager: Activate your SIM cards and customise the SIM card settings. Refer to
+SIM manager (dual SIM models) for more information.
+• 	Mobile networks: Configure your mobile network settings.
+• 	Data usage: Keep track of your data usage amount and customise the settings for
+the limitation. Set the device to automatically disable the mobile data connection
+when the amount of mobile data you have used reaches your specified limit.
+You can turn on the data saver feature to prevent some apps running in the
+background from sending or receiving data. Refer to Data saver for more
+information.
+You can also set apps to use only a Wi-Fi or mobile data, or both. Refer to Allowed
+networks for apps for more information.
+• 	Mobile Hotspot and Tethering: Use the phone as a mobile hotspot to share the
+phone’s mobile data connection with other devices. For more information about
+Mobile Hotspot, refer to Mobile Hotspot.
+You may incur additional charges when using this feature.
+• 	More connection settings: Customise settings to control other features. Refer to
+More connection settings for more information.
+Some features may not be available depending on the model.
+
+-- 80 of 137 --
+
+Settings
+81
+Wi-Fi
+Turn on the Wi-Fi feature to connect to a Wi-Fi network and access the internet or other
+network devices.
+Connecting to a Wi-Fi network
+1 	On the Settings screen, tap Connections → Wi-Fi and tap the switch to turn it on.
+2 	Select a network from the Wi-Fi networks list.
+Networks with a lock icon require a password.
+• 	Once the device connects to a Wi-Fi network, the device will reconnect to that
+network each time it is available without requiring a password. To prevent the
+device from connecting to the network automatically, tap the Settings icon ( 	)
+next to the network and tap the Auto reconnect switch to turn it off.
+• 	If you cannot connect to a Wi-Fi network properly, restart your device’s Wi-Fi
+feature or the wireless router.
+Sharing Wi-Fi network passwords
+If you make a request to a person who is connected to a secured Wi-Fi network to share
+its password, you can connect to the network without entering the password. This
+feature is available between the devices which have contacts each other and the screen
+of the other device must be turned on.
+1 	On the Settings screen, tap Connections → Wi-Fi and tap the switch to turn it on.
+2 	Select a network from the Wi-Fi networks list.
+3 	Tap Request password.
+4 	Accept the share request on the other device.
+The Wi-Fi password is entered on your device and it is connected to the network.
+
+-- 81 of 137 --
+
+Settings
+82
+Wi-Fi Direct
+Wi-Fi Direct connects devices directly through a Wi-Fi network without requiring an
+access point.
+1 	On the Settings screen, tap Connections → Wi-Fi and tap the switch to turn it on.
+2 	Tap the More options icon ( ) → Wi-Fi Direct.
+The detected devices are listed.
+If the device you want to connect to is not in the list, request that the device turns on
+its Wi-Fi Direct feature.
+3 	Select a device to connect to.
+The devices will be connected when the other device accepts the Wi-Fi Direct
+connection request.
+To end the device connection, select the device to disconnect from the list.
+Bluetooth
+Use Bluetooth to exchange data or media files with other Bluetooth-enabled devices.
+Precautions for using Bluetooth
+• 	Samsung is not responsible for the loss, interception, or misuse of data sent or
+received through Bluetooth.
+• 	Always ensure that you share and receive data with devices that are trusted and
+properly secured. If there are obstacles between the devices, the operating distance
+may be reduced.
+• 	Some devices, especially those that are not tested or approved by the Bluetooth SIG,
+may be incompatible with your device.
+• 	Do not use the Bluetooth feature for illegal purposes (for example, pirating copies of
+files or illegally tapping communications for commercial purposes). Samsung is not
+responsible for the repercussion of illegal use of the Bluetooth feature.
+
+-- 82 of 137 --
+
+Settings
+83
+Pairing with other Bluetooth devices
+1 	On the Settings screen, tap Connections → Bluetooth and tap the switch to turn it
+on.
+The detected devices will be listed.
+2 	Select a device to pair with.
+If the device you want to pair with is not on the list, set the device to enter Bluetooth
+pairing mode. Refer to the other device’s user guides.
+Your phone is visible to other devices while the Bluetooth settings screen is open.
+3 	Accept the Bluetooth connection request on your phone to confirm.
+The devices will be connected when the other device accepts the Bluetooth
+connection request.
+To unpair the devices, tap the Settings icon ( 	) next to the device name to unpair and
+tap Unpair.
+Sending and receiving data
+Many apps support data transfer through Bluetooth. You can share data, such as
+contacts or media files, with other Bluetooth devices. The following actions are an
+example of sending an image to another device.
+1 	Open the Gallery app and select an image.
+2 	Tap the Share icon ( 	) → Bluetooth and select a device to transfer the image to.
+If the device you want to pair with is not in the list, request that the device turns on its
+visibility option.
+3 	Accept the Bluetooth connection request on the other device.
+
+-- 83 of 137 --
+
+Settings
+84
+NFC and contactless payments
+You can use your phone to read near field communications tags (NFC) that contain
+information about products. You can also use this feature to make payments and buy
+tickets for transportation or events after downloading the required apps.
+The device contains a built-in NFC antenna. Handle the device carefully to avoid
+damaging the NFC antenna.
+Reading information from NFC tags
+Use the NFC feature to read product information from NFC tags.
+1 	On the Settings screen, tap Connections and tap the NFC and contactless payments
+switch to turn it on.
+2 	Place the NFC antenna area on the back of your device near an NFC tag.
+The information from the tag appears.
+Ensure that the device’s screen is turned on and unlocked. Otherwise, the device
+will not read NFC tags or receive data.
+Making payments with the NFC feature
+Before you can use the NFC feature to make payments, you must register for the mobile
+payment service. To register or get more information about the service, contact your
+service provider.
+1 	On the Settings screen, tap Connections and tap the NFC and contactless payments
+switch to turn it on.
+2 	Touch the NFC antenna area on the back of your device to the NFC card reader.
+To set the default payment app, on the Settings screen, tap Connections → NFC and
+contactless payments → Default wallet app and select an app.
+• 	The payment services list may not include all available payment apps.
+• 	If you update the payment app or install a new one, the payment services that
+you used before may not work properly. If that is the case, on the Settings
+screen, tap Connections → NFC and contactless payments → Default wallet
+app or Other NFC services, and then select another app instead of the updated
+or newly installed app. Or, deselect the selected app.
+
+-- 84 of 137 --
+
+Settings
+85
+Data saver
+Reduce your data usage by preventing some apps running in the background from
+sending or receiving data.
+On the Settings screen, tap Connections → Data usage → Data saver and tap the switch
+to turn it on.
+When the data saver feature is turned on, the Data saver icon ( 	) will appear on the
+status bar.
+To select apps to use data without restriction, tap Apps that can always use data
+and select apps.
+Allowed networks for apps
+Set apps to use only a Wi-Fi or mobile data, or both.
+For example, you can set the device to use only mobile data for apps that you want to
+keep secure or streaming apps that can be disconnected. Even if you do not turn off the
+Wi-Fi feature, the apps will open using the mobile data.
+On the Settings screen, tap Connections → Data usage → Allowed networks for apps.
+Tap an app you want from the apps list and select a network option.
+You may incur additional charges when using the mobile data.
+Mobile Hotspot
+Use your phone as a mobile hotspot to share your phone’s mobile data connection with
+other devices.
+1 	On the Settings screen, tap Connections → Mobile Hotspot and Tethering → Mobile
+Hotspot.
+2 	Tap the switch to turn it on.
+You can change the network name, password, and more.
+The Hotspot icon ( 	) appears on the status bar.
+
+-- 85 of 137 --
+
+Settings
+86
+3 	On the other device’s screen, search for and select your phone from the Wi-Fi
+networks list.
+Alternatively, tap QR code on the Mobile Hotspot screen and scan the QR code with
+the other device.
+• 	If the mobile hotspot is not found, on your phone, set Band to 2.4 GHz, tap
+Advanced, and then tap the Hidden network switch to turn it off.
+• 	If you turn on the Auto Hotspot feature, you can share your phone’s mobile data
+connection with other devices signed in to your Samsung account.
+More connection settings
+Customise settings to control other connection features.
+On the Settings screen, tap Connections → More connection settings.
+• 	Nearby device scanning: Set the phone to scan for nearby devices to connect to.
+• 	Printing: Configure settings for printer plug-ins installed on the device. You can
+search for available printers or add one manually to print files. Refer to Printing for
+more information.
+• 	VPN: Set up virtual private networks (VPNs) on your device to connect to a school or
+company’s private network.
+• 	Private DNS: Set the device to use the security enhanced private DNS.
+• 	Ethernet: When you connect an Ethernet adapter, you can use a wired network and
+configure network settings.
+• 	Auto update system configurations: Allow automatic configuration changes to
+ensure that network connection features work as expected.
+
+-- 86 of 137 --
+
+Settings
+87
+Printing
+Configure settings for printer plug-ins installed on the device. You can connect the
+device to a printer through Wi-Fi or Wi-Fi Direct, and print images or documents.
+Some printers may not be compatible with the device.
+Adding printer plug-ins
+Add printer plug-ins for printers you want to connect the device to.
+1 	On the Settings screen, tap Connections → More connection settings → Printing →
+Download plugin.
+2 	Select a printer plug-in and install it.
+3 	Select the installed printer plug-in.
+The device will automatically search for printers that are connected to the same Wi-Fi
+network as your device.
+4 	Select a printer to add.
+To add printers manually, tap the More options icon ( ) → Add printer.
+Printing content
+While accessing content, such as images or documents, access the options list, tap Print
+→ the Dropdown icon ( 	) → All printers..., and then select a printer.
+Printing methods may vary depending on the content type.
+
+-- 87 of 137 --
+
+Settings
+88
+Connected devices
+Change settings for device connections.
+On the Settings screen, tap Connected devices.
+• 	Quick Share: Change the Quick Share settings. Refer to Quick Share for more
+information.
+• 	Music Share: Change the Music Share settings. Refer to Music Share for more
+information.
+• 	Audio broadcast: Broadcast music, voice, or other audio content from your device
+using the Auracast standard. When you connect Bluetooth LE Audio-compatible
+devices, such as speakers, headphones, or hearing aids, you can listen to other audio
+broadcasts.
+• 	Auto switch Buds: Set the Galaxy Buds to switch from another device to your phone
+when you make or answer a call, play media, and more. You can use this feature only
+when you signed in to the same Samsung account on the other device and you are
+wearing your Galaxy Buds.
+• 	Call & text on other devices: Connect other devices, such as tablets, to your phone to
+use calling and messaging features on those devices using your phone number. You
+must sign in to the same Samsung account on connected devices and your phone.
+Some calling and messaging features may not be available.
+• 	Continue on other devices: Use your phone’s apps and features on other devices
+signed in to your Samsung account.
+• 	Storage Share: Share your phone’s files with your Samsung phone, Samsung TV,
+Galaxy Book, and more. To use this feature, both devices need to be signed in to the
+same Samsung account and have Wi-Fi, Bluetooth, and the Storage Share feature
+turned on.
+• 	Link to Windows: Use apps and check notifications from your mobile device on
+a Windows computer. A Microsoft account is required to use this feature. Visit
+https://aka.ms/setupltw for details.
+• 	Multi control: Use a mouse and keyboard connected to a Samsung computer that
+supports this feature on your phone.
+• 	Smart View: View your phone’s displayed content on a large screen by connecting
+your phone to a screen mirroring-enabled TV or monitor. Refer to Smart View for
+more information.
+
+-- 88 of 137 --
+
+Settings
+89
+• 	Galaxy Wearable: When you connect your phone to the wearable device, you can
+customise the wearable device’s settings and apps. Refer to Galaxy Wearable for
+more information.
+• 	SmartThings: Control and manage smart appliances and Internet of Things (IoT)
+products. Refer to SmartThings for more information.
+• 	Android Auto: Connect your device to a vehicle and control some of your device’s
+features on the vehicle’s display.
+Some features may not be available depending on the model.
+Modes and Routines
+Using modes
+Add a mode based on your current activity or location. Your device’s settings will change
+to match your activity or situation. You can turn the mode on or off from the quick
+settings panel.
+Adding modes
+1 	On the Settings screen, tap Modes and Routines → Modes.
+2 	Select a mode you want or tap Add mode to add your own modes.
+Running modes
+Modes will run automatically when their conditions are detected. You can also run them
+manually by tapping the button whenever you want.
+To run modes manually, select the mode you want and tap Turn on.
+To turn off a running mode, tap the mode and tap Turn off.
+Alternatively, open the quick settings panel, tap Modes, and then select a mode to turn
+it on. To turn the mode off, tap the mode button on the quick settings panel.
+
+-- 89 of 137 --
+
+Settings
+90
+Using routines
+Automate your repetitive daily tasks. For example, you can automatically change your
+sound settings depending on where you are, optimise your device’s settings for gaming,
+and more.
+Adding routines
+1 	On the Settings screen, tap Modes and Routines → Routines.
+2 	Tap the Create icon ( 	) and add your own routines or tap Discover and select a
+routine you want.
+If you want to set the routine’s running condition to manual, tap Start manually. This
+option will appear only when there are no running conditions set.
+Running routines
+Auto routines will run automatically when their conditions are detected. For routines
+which you set the running condition as Start manually, you can run them manually by
+tapping the button whenever you want.
+To run routines manually, tap the Start icon ( 	) next to the routine you want to run. If
+you want to use a widget, tap a routine under Manual routines and tap More → Add to
+Home screen → Add. The routine will be added as a widget to the Home screen and you
+can run the routine by tapping the widget.
+To stop running routines, tap the Routine list icon ( ), tap the routine under Running,
+and then tap Stop, or tap the routine’s widget on the Home screen.
+
+-- 90 of 137 --
+
+Settings
+91
+Sounds and vibration
+Options
+Change settings for various sounds on the device.
+On the Settings screen, tap Sounds and vibration.
+• 	Sound / Vibrate / Mute: Set the device to use sound mode, vibration mode, or silent
+mode.
+• 	Vibrate while ringing: Set the device to vibrate and play a ringtone for incoming
+calls.
+• 	Temporary mute: Set the device to use silent mode for a certain period.
+• 	Ringtone: Change the call ringtone.
+• 	Notification sound: Change the notification sound.
+• 	System sound: Change the sound to use for certain actions, such as charging the
+device.
+• 	Volume: Adjust the device’s volume level.
+• 	Call vibration: Change the call vibration settings.
+• 	Notification vibration: Change the notification vibration settings.
+• 	System vibration: Select actions to receive vibration feedback and adjust the
+vibration intensity.
+• 	Vibration intensity: Adjust the force of the vibration notification.
+• 	Sound quality and effects: Set the device’s sound quality and effects. Refer to Sound
+quality and effects for more information.
+• 	Separate app sound: Set the device to play media sound from a specific app
+separately on the other audio device. Refer to Separate app sound for more
+information.
+Some features may not be available depending on the model.
+
+-- 91 of 137 --
+
+Settings
+92
+Sound quality and effects
+Set the device’s sound quality and effects.
+On the Settings screen, tap Sounds and vibration → Sound quality and effects.
+• 	Dolby Atmos: Select a surround sound mode optimised for various types of audio,
+such as movies, music, and voice. With Dolby Atmos, you can experience moving
+audio sounds that flow all around you.
+• 	Equaliser: Change the sound profile and enjoy optimised sound.
+• 	Loudness normalisation: Reduce the differences in volume between different
+content. The device will automatically increase the volume of content with low
+volume.
+• 	App sound settings: Check and manage the optimised sound settings you saved for
+each media app. To adjust sound settings for each app, open the quick settings panel
+while playing content in the app, touch and hold the volume adjustment bar, and
+then change the settings. The same settings will be applied the next time you run
+the app.
+• 	Adapt sound: Set the best sound for you.
+• 	UHQ upscaler: Enhance the sound resolution of music and videos when using wired
+headphones or Bluetooth headphones that support UHQ.
+Depending on the model, you must connect headphones to use some features.
+Separate app sound
+Set the device to play media sound from a specific app on the connected Bluetooth
+speaker or headset.
+For example, you can listen to the Navigation app through your device’s speaker while
+listening to playback from the Music app through the vehicle’s Bluetooth speaker.
+1 	On the Settings screen, tap Sounds and vibration → Separate app sound and tap the
+switch to turn it on.
+2 	Select an app to play media sounds separately and tap the Back button ( 	).
+3 	Select a device for playing the selected app’s media sound.
+
+-- 92 of 137 --
+
+Settings
+93
+Notifications
+Change the notification settings.
+On the Settings screen, tap Notifications.
+• 	App notifications: Select the apps you want to receive notifications from.
+• 	Notification pop-up style: Select a notification pop-up style and change the
+settings.
+• 	Hide content while locked: Set whether to hide the content of notifications on the
+locked screen.
+• 	Sort and filter notifications: Select a method for sorting or filtering notifications.
+• 	Status bar: Set how to display icons on the status bar.
+• 	Lock screen: Set how to show notifications on the locked screen.
+• 	Do not disturb: Set the device to mute all sounds except for allowed exceptions.
+• 	Advanced settings: Configure advanced settings for notifications.
+Display
+Options
+Change the display and the Home screen settings.
+On the Settings screen, tap Display.
+• 	Light / Dark: Turn Dark mode on or off.
+• 	Dark mode settings: Reduce eye strain by applying the dark theme when using the
+device at night or in a dark place. You can set a schedule for applying Dark mode.
+The dark theme may not be applied in some apps.
+• 	Brightness: Adjust the brightness of the display.
+• 	Adaptive brightness: Set the device to keep track of your brightness adjustments
+and apply them automatically in similar lighting conditions.
+
+-- 93 of 137 --
+
+Settings
+94
+• 	Motion smoothness: Change the refresh rate of the screen. When a high refresh rate
+is set, the screen will scroll more smoothly. Refer to Motion smoothness for more
+information.
+• 	Eye comfort shield: Reduce eye strain by limiting the amount of blue light emitted
+by the screen. You can set a schedule for applying this feature.
+• 	Screen mode: Change the screen mode to adjust the display’s colour and contrast.
+Refer to Changing the screen mode or adjusting the display colour for more
+information.
+• 	Font size and style: Change the font size and style.
+• 	Screen zoom: Make the items on the screen larger or smaller.
+• 	Camera cutout: Set the device to hide the front camera from the screen.
+• 	Screen timeout: Set the length of time the device waits before turning off the
+display’s backlight.
+• 	Easy mode: Switch to easy mode to display larger icons and apply a simpler layout to
+the Home screen.
+• 	Edge panels: Change the settings for the Edge panel.
+• 	Navigation bar: Change the navigation bar settings. Refer to Navigation bar (soft
+buttons) for more information.
+• 	Accidental touch protection: Set the device to prevent the screen from detecting
+touch input when it is in a dark place, such as a pocket or bag.
+• 	Touch sensitivity: Increase the touch sensitivity of the screen for use with screen
+protectors.
+• 	Show charging information: Set the device to display the charging information, such
+as the remaining battery percentage when the screen is off.
+• 	Screen saver: Set the device to launch a screensaver when the device is charging.
+Some features may not be available depending on the model.
+
+-- 94 of 137 --
+
+Settings
+95
+Motion smoothness
+The refresh rate is the number of times the screen is refreshed every second. Use a high
+refresh rate to prevent the screen from flickering when switching between screens. The
+screen will scroll more smoothly. When you select a standard refresh rate, you can use
+the battery longer.
+1 	On the Settings screen, tap Display → Motion smoothness.
+2 	Select a refresh rate.
+• 	Adaptive: Get smoother animations and scrolling by automatically adjusting your
+screen refresh rate into a higher one.
+• 	Standard: Use a standard refresh rate in normal situations to conserve battery
+power.
+Changing the screen mode or adjusting the display colour
+Change the screen mode or adjust the display colour to your preference.
+Changing the screen mode
+On the Settings screen, tap Display → Screen mode and select a mode you want.
+• 	Vivid: This optimises the colour range, saturation, and sharpness of your display. You
+can also adjust the display colour balance by colour value.
+• 	Natural: This adjusts the screen to a natural tone.
+• 	You can adjust the display colour only in Vivid mode.
+• 	Vivid mode may not be compatible with third-party apps.
+Optimising the full screen colour balance
+Optimise the display colour by adjusting the colour tones to your preference.
+On the Settings screen, tap Display → Screen mode → Vivid and adjust the colour
+adjustment bar under White balance.
+When you drag the colour adjustment bar towards Cool, the blue colour tone will
+increase. When you drag the bar towards Warm, the red colour tone will increase.
+
+-- 95 of 137 --
+
+Settings
+96
+Adjusting the screen tone by colour value
+Increase or lower certain colour tones by adjusting the Red, Green, or Blue value
+individually.
+1 	On the Settings screen, tap Display → Screen mode → Vivid.
+2 	Tap Advanced settings.
+3 	Adjust the R (Red), G (Green), or B (Blue) colour bar to your preference.
+The screen tone will be adjusted.
+To adjust the vividness level, drag the bar under Vividness.
+Battery
+Check the remaining battery power and time to use the device. For devices with low
+battery levels, conserve battery power by turning on power saving features.
+On the Settings screen, tap Battery.
+• 	Daily usage: Check the battery level and usage history.
+• 	Power saving: Turn on power saving mode to extend the battery’s usage time.
+• 	Background usage limits: Limit battery usage for apps that you do not use often.
+• 	Battery protection: Set to stop charging when the battery is fully charged or limit
+the maximum charge to the preset level.
+• 	Battery information: Check out battery information.
+You can check the following battery information here. The available
+information may vary depending on the region, service provider, or model.
+• 	Date of battery manufacturing
+• 	Date of first use
+• 	Number of full charge/discharge cycles (based on rated capacity)
+• 	Measured state of health
+• 	Charging settings: Configure the charging settings.
+• 	Auto dim screen: Dim the screen when the remaining battery power drops below a
+certain level.
+
+-- 96 of 137 --
+
+Settings
+97
+• 	The usage time left shows the time remaining before the battery power runs
+out. Usage time left may vary depending on your device settings and operating
+conditions.
+• 	You might not receive notifications from some apps that use power saving
+mode.
+Wallpaper and style
+Change the wallpaper settings for the Home screen and the locked screen.
+On the Settings screen, tap Wallpaper and style.
+Themes
+Apply various themes to the device to change the visual elements of the Home screen,
+locked screen, and icons.
+On the Settings screen, tap Themes.
+Home screen
+Configure settings for the Home screen, such as the screen layout.
+On the Settings screen, tap Home screen.
+
+-- 97 of 137 --
+
+Settings
+98
+Lock screen and AOD
+Options
+Change the settings for the locked screen and the Always On Display.
+On the Settings screen, tap Lock screen and AOD.
+• 	Screen lock and biometrics: Change the screen lock method.
+• 	Extend Unlock: Set the device to unlock itself when trusted locations or devices are
+detected. Refer to Extend Unlock for more information.
+• 	Secure lock settings: Change screen lock settings for the selected lock method.
+• 	Always On Display: Set the device to display information while the screen is turned
+off. Refer to Always On Display for more information.
+• 	Now bar: Select items to display on the locked screen.
+• 	Touch and hold to edit: Set the device to display the editing options when you touch
+and hold the locked screen.
+• 	Roaming clock: Change the clock to show both the local and home time zones on
+the locked screen when roaming.
+• 	Contact information: Set the device to show contact information, such as your email
+address, on the locked screen.
+• 	Show unlock transition effect: Set to display the unlock transition effect when you
+unlock the screen through your biometric data.
+• 	About Lock screen: Check out the Lock screen version and legal information.
+• 	Some features may not be available depending on the carrier or model.
+• 	The available options may vary depending on the screen lock method selected.
+
+-- 98 of 137 --
+
+Settings
+99
+Extend Unlock
+You can set the device to unlock itself and remain unlocked when trusted locations or
+devices are detected.
+For example, if you have set your home as a trusted location, when you get home your
+device will detect the location and automatically unlock itself.
+On the Settings screen, tap Lock screen and AOD → Extend Unlock and follow the
+on-screen instructions to complete the setup.
+• 	This feature will be available to use after you set a screen lock method.
+• 	If you do not use your device for four hours or when you turn on the device, you
+must unlock the screen using the pattern, PIN, or password you set.
+Always On Display
+(Displaying information when the screen is turned off)
+You can check out information on the screen, such as the clock, when it is turned off.
+You can also check notifications for new messages or missed calls.
+To set the Always On Display to appear only during the preset condition, on the Settings
+screen, tap Lock screen and AOD → Always On Display → When to show, and then
+select an option you want.
+The brightness of the Always On Display may change automatically depending on
+the lighting conditions.
+Opening notifications on the Always On Display
+When you receive message, missed call, or app notifications, notification icons will
+appear on the Always On Display. Double tap a notification icon to check its notification.
+To use this feature, on the Settings screen, tap Notifications → Lock screen and tap
+Cards under Notification style.
+If the screen is locked, you must unlock it to check notifications.
+Turning off the Always On Display feature
+On the Settings screen, tap Lock screen and AOD and tap the Always On Display switch
+to turn it off.
+
+-- 99 of 137 --
+
+Settings
+100
+Security and privacy
+Options
+Check the device’s security and privacy status and change the settings.
+On the Settings screen, tap Security and privacy.
+• 	Lock screen: Change the settings for the locked screen.
+• 	Account security: Change the settings for your accounts.
+• 	Lost device protection: Turn the Find My Mobile feature on or off. Access
+smartthingsfind.samsung.com to track and control your lost or stolen phone. You
+can also check the location of the wearable devices connected to this phone. To
+prevent others from accessing your device’s apps and data in case your device is
+stolen, set to use the Theft protection feature.
+• 	App security: Scan apps and keep your device safe from malicious software.
+• 	Updates: Check the version of your device’s software and check for updates.
+• 	Screen lock and biometrics: Change the settings for the locked screen and biometric
+data. Refer to Face recognition and Fingerprint recognition for more information.
+• 	Auto Blocker: Keep your device safe by blocking threats and other suspicious
+activity.
+• 	Security status of your devices: Check the security status of your devices that are
+signed in to your Samsung account.
+• 	More security settings: Configure additional security settings. Refer to Secure Wi-Fi,
+Secure Folder, and Samsung Pass for more information.
+• 	Permissions used in last 24 hours: Check the app or feature’s permission usage
+history.
+• 	Internet privacy protection: Check the internet privacy protection history and
+change settings. This feature will be added when you use the Samsung Internet app.
+• 	Controls and alerts: Control access to features such as the microphone and
+clipboard.
+• 	More privacy settings: Configure additional privacy settings.
+Some features may not be available depending on the carrier or model.
+
+-- 100 of 137 --
+
+Settings
+101
+Face recognition
+You can set the device to unlock the screen by recognising your face.
+• 	If you use your face as a screen lock method, your face cannot be used to unlock
+the screen for the first time after turning on the device. To use the device,
+you must unlock the screen using the pattern, PIN, or password you set when
+registering the face. Be careful not to forget your pattern, PIN, or password.
+• 	If you change the screen lock method to Swipe or None, which are not secure, all
+of your biometric data will be deleted.
+Precautions for using face recognition
+Before using the face recognition to unlock your device, keep the following precautions
+in mind.
+• 	Your device could be unlocked by someone or something that looks like your image.
+• 	Face recognition is less secure than Pattern, PIN, or Password.
+For better face recognition
+Consider the following when using face recognition:
+• 	Consider the conditions when registering, such as wearing glasses, hats, masks,
+beards, or heavy makeup
+• 	Ensure that you are in a well-lit area and that the camera lens is clean when
+registering
+• 	Ensure your image is not blurry for better match results
+Registering your face
+For better face registration, register your face indoors and out of direct sunlight.
+1 	On the Settings screen, tap Security and privacy → Screen lock and biometrics →
+Face recognition.
+2 	Set a screen lock method.
+
+-- 101 of 137 --
+
+Settings
+102
+3 	Read the on-screen instructions and tap Continue.
+4 	Tap Register and position your face inside the frame on the screen.
+The camera will scan your face.
+• 	If unlocking the screen with your face is not working properly, tap Remove face
+data to remove your registered face and register your face again.
+• 	To enhance the face recognition, tap Add alternative appearance to enhance
+recognition and add an alternate appearance.
+Unlocking the screen with your face
+You can unlock the screen with your face instead of using a pattern, PIN, or password.
+1 	On the Settings screen, tap Security and privacy → Screen lock and biometrics.
+2 	Unlock the screen using the preset screen lock method.
+3 	Tap Face recognition and tap the Face unlock switch to turn it on.
+4 	On the locked screen, look at the screen.
+When your face is recognised, you can unlock the screen without using any additional
+screen lock method. If your face is not recognised, use the preset screen lock method.
+Deleting the registered face data
+You can delete face data that you have registered.
+1 	On the Settings screen, tap Security and privacy → Screen lock and biometrics.
+2 	Unlock the screen using the preset screen lock method.
+3 	Tap Face recognition → Remove face data → Remove.
+Once the registered face is deleted, all the related features will also be turned off.
+
+-- 102 of 137 --
+
+Settings
+103
+Fingerprint recognition
+In order for fingerprint recognition to function, your fingerprint information needs to be
+registered and stored in your device.
+• 	This feature may not be available depending on the carrier or model.
+• 	Fingerprint recognition uses the unique characteristics of each fingerprint to
+enhance the security of your device. The likelihood of the fingerprint sensor
+confusing two different fingerprints is very low. However, in rare cases where
+separate fingerprints are very similar the sensor may recognise them as
+identical.
+• 	Thick or coloured protective film can affect performance. If you use a screen
+protector, check to make sure it’s labelled as compatible with the on-screen
+fingerprint sensor. (such as screen protectors sold by Samsung)
+• 	If you use your fingerprint as a screen lock method, your fingerprint cannot be
+used to unlock the screen for the first time after turning on the device. To use
+the device, you must unlock the screen using the pattern, PIN, or password you
+set when registering the fingerprint. Be careful not to forget your pattern, PIN, or
+password.
+• 	If your fingerprint is not recognised, unlock the device using the pattern, PIN,
+or password you set when registering the fingerprint, and then re-register your
+fingerprints. If your pattern, PIN, or password is forgotten, you will not be able to
+use the device if you do not reset it. Samsung is not responsible for any data loss
+or inconvenience caused by forgotten unlock codes.
+• 	If you change the screen lock method to Swipe or None, which are not secure, all
+of your biometric data will be deleted.
+
+-- 103 of 137 --
+
+Settings
+104
+For better fingerprint recognition
+When you scan your fingerprints on the device, be aware of the following conditions that
+may affect the feature’s performance:
+• 	The device may not recognise fingerprints that are affected by wrinkles or scars.
+• 	The device may not recognise fingerprints from small or thin fingers.
+• 	To improve recognition performance, register the fingerprints of the fingers used
+most often to perform tasks on the device.
+• 	Your device has a built-in fingerprint recognition sensor at the bottom centre of the
+screen. Ensure that the screen protector or the screen on the fingerprint recognition
+sensor area is not scratched or damaged by objects, such as coins, keys, pens, and
+necklaces.
+• 	Ensure that the fingerprint recognition sensor area at the bottom centre of the
+screen and your fingers are clean and dry.
+• 	If you bend your finger or use a fingertip, the device may not recognise your
+fingerprints. Press the screen so that your fingertip spreads over the wide surface of
+the fingerprint recognition area.
+Registering fingerprints
+On the Settings screen, tap Security and privacy → Screen lock and biometrics →
+Fingerprints and follow the on-screen instructions to register your fingerprint. After
+registering, you can check whether your fingerprint is registered and its name by tapping
+Check added fingerprints.
+Unlocking the screen with your fingerprints
+You can unlock the screen with your fingerprint instead of using a pattern, PIN, or
+password.
+1 	On the Settings screen, tap Security and privacy → Screen lock and biometrics.
+2 	Unlock the screen using the preset screen lock method.
+3 	Tap Fingerprints and tap the Fingerprint unlock switch to turn it on.
+4 	On the locked screen, place your finger on the fingerprint recognition sensor and scan
+your fingerprint.
+
+-- 104 of 137 --
+
+Settings
+105
+Recognising your fingerprints with the screen turned off
+1 	On the Settings screen, tap Security and privacy → Screen lock and biometrics.
+2 	Unlock the screen using the preset screen lock method.
+3 	Tap Fingerprints and tap the Fingerprint always on switch to turn it on.
+If you tap Show icon when screen is off, you can change when to show the fingerprint
+recognition icon or set it to not display the icon.
+Deleting registered fingerprints
+You can delete registered fingerprints.
+1 	On the Settings screen, tap Security and privacy → Screen lock and biometrics.
+2 	Unlock the screen using the preset screen lock method.
+3 	Tap Fingerprints, select a fingerprint to delete, and then tap Remove → Remove.
+Secure Wi-Fi
+Secure Wi-Fi is a service that secures your Wi-Fi network connection. It encrypts data
+using Wi-Fi networks and disables tracking apps and websites so that you can use Wi-Fi
+networks safely. For example, when using an unsecure Wi-Fi network in public places,
+such as cafes or airports, Secure Wi-Fi is automatically turned on so that no one can hack
+your login information or monitor your activity in apps and websites.
+On the Settings screen, tap Security and privacy → More security settings → Secure
+Wi-Fi and follow the on-screen instructions to complete the setup. If you tap Protection
+activity, you can check the history of how and when your network was protected with
+Secure Wi-Fi.
+When Secure Wi-Fi is turned on, the VPN icon ( 	) will appear on the status bar.
+• 	Using this feature may result in a slower Wi-Fi network speed.
+• 	This feature may not be available depending on the Wi-Fi network, carrier, or
+model.
+
+-- 105 of 137 --
+
+Settings
+106
+Selecting apps to protect using Secure Wi-Fi
+Select apps to protect using Secure Wi-Fi so that you can safely protect data, such as
+your password or your activity in apps, from being accessed by others.
+On the Settings screen, tap Security and privacy → More security settings → Secure
+Wi-Fi → the More options icon ( ) → Settings → Protected apps and tap the switches
+next to the apps you want to protect using Secure Wi-Fi.
+Some apps may not support this feature.
+Purchasing protection plan
+You are provided with a free protection plan for Wi-Fi networks every month. You can
+also purchase paid protection plans and have unlimited bandwidth protection for a
+limited time.
+1 	On the Settings screen, tap Security and privacy → More security settings → Secure
+Wi-Fi.
+2 	Tap protection plan information → Upgrade and select the plan you want.
+For certain protection plans, you can transfer the protection plan to another device
+signed in to your Samsung account.
+3 	Follow the on-screen instructions to complete the purchase.
+Secure Folder
+Secure Folder protects your private content and apps, such as pictures and contacts,
+from being accessed by others. You can keep your private content and apps secure even
+when the device is unlocked.
+Secure Folder is a separate, secured storage area. The data in Secure Folder cannot
+be transferred to other devices through unapproved sharing methods, such as
+USB or Wi-Fi Direct. Attempting to customise the operating system or modifying
+software will cause Secure Folder to be automatically locked and inaccessible.
+Before saving data in Secure Folder, make sure to back up a copy of the data in
+another secure location.
+
+-- 106 of 137 --
+
+Settings
+107
+Setting up Secure Folder
+1 	Open Settings and tap Security and privacy → More security settings → Secure
+Folder.
+2 	Follow the on-screen instructions to complete the setup.
+When a pop-up window asking whether you want to reset the Secure Folder lock type
+with your Samsung account appears, tap Allow. If you have forgotten the lock type,
+you can reset it using your Samsung account. If you do not turn on this feature, you
+cannot reset the lock type when you have forgotten it.
+When the setup is complete, the Secure Folder screen will appear and the Secure
+Folder app icon ( 	) will be added to the Apps screen.
+• 	When the Secure Folder app is locked, you must unlock it using your preset lock
+method.
+• 	To change the name or icon of Secure Folder, tap the More options icon ( ) →
+Customise.
+Setting an auto lock condition for Secure Folder
+1 	Open the Secure Folder app and tap the More options icon ( ) → Settings → Auto
+lock Secure Folder.
+2 	Select a lock option.
+To manually lock your Secure Folder, tap the More options icon ( ) → Lock and exit.
+Moving content to Secure Folder
+Move content, such as pictures and videos, to Secure Folder. The following actions are an
+example of moving an image from the default storage to Secure Folder.
+1 	Open the Secure Folder app and tap the More options icon ( ) → Add files.
+2 	Tap Images, tick images to move, and then tap Done.
+3 	Tap Move.
+The selected items will be deleted from the original folder and moved to Secure
+Folder. To copy items, tap Copy.
+The method for moving content may vary depending on the content type.
+
+-- 107 of 137 --
+
+Settings
+108
+Moving content from Secure Folder
+Move content from Secure Folder to the corresponding app in the default storage. The
+following actions are an example of moving an image from Secure Folder to the default
+storage.
+1 	Open the Secure Folder app and tap Gallery.
+2 	Select an image and tap the More options icon ( ) → Move out of Secure Folder.
+The selected items will be moved to Gallery in the default storage.
+Adding apps
+Add an app to use in Secure Folder.
+1 	Open the Secure Folder app and tap the Add apps icon ( 	).
+2 	Tick one or more apps installed on the device and tap Add.
+Removing apps from Secure Folder
+Touch and hold an app to delete, and tap Uninstall.
+Adding accounts
+Add your Samsung and Google accounts, or other accounts, to sync with the apps in
+Secure Folder.
+1 	Open the Secure Folder app and tap the More options icon ( ) → Settings → Manage
+accounts → Add account.
+2 	Select an account service.
+3 	Follow the on-screen instructions to complete the account setup.
+Hiding Secure Folder
+You can encrypt Secure Folder and hide the shortcut from the Apps screen.
+Open the quick settings panel and tap the Expand icon ( 	) → Secure Folder ( 	) →
+Hide. Alternatively, open the Secure Folder app and tap the More options icon ( ) →
+Hide Secure Folder → Hide Secure Folder.
+If you want to show and open the Secure Folder again, open the quick settings panel, tap
+the Expand icon ( 	) → Secure Folder ( 	), and then unlock the Secure Folder using the
+preset Secure Folder lock method.
+
+-- 108 of 137 --
+
+Settings
+109
+Uninstalling Secure Folder
+You can uninstall Secure Folder, including the content and apps in it.
+Open the Secure Folder app and tap the More options icon ( ) → Settings → More
+settings → Uninstall.
+To back up content before uninstalling Secure Folder, tick Move media files out of
+Secure Folder and tap Uninstall. To access data backed up from Secure Folder, open the
+My Files app and tap Internal storage → Download → Secure Folder.
+Notes saved in Samsung Notes will not be backed up.
+Samsung Pass
+Verify your identity with Samsung Pass when using services which require your login or
+personal information.
+Registering Samsung Pass
+On the Settings screen, tap Security and privacy → More security settings →
+Passwords, passkeys, and autofill → Samsung Pass. Follow the on-screen instructions
+to complete the setup.
+Saving your information to Samsung Pass
+When you save apps’ or websites’ sign-in or personal information in Samsung Pass, you
+can enter the information automatically.
+You can save your information manually or check and manage the saved
+information on Samsung Pass.
+Saving your sign-in information
+On the sign-in page of the app or website, enter your ID and password, and then tap the
+sign-in button. When a pop-up window asking whether you want to save the sign-in
+information appears, tap Save.
+Saving your personal information
+On the Samsung Pass main screen, select an option under Private info, enter the
+information, and then tap Save.
+
+-- 109 of 137 --
+
+Settings
+110
+Entering your information automatically
+You can automatically enter your sign-in or personal information, such as your address or
+payment card information, saved in Samsung Pass.
+• 	This feature may not be available in some apps or websites.
+• 	The website autofill feature is only available for websites that you access
+through the Samsung Internet app.
+Signing in using passkeys
+In apps or websites that support sign-in with a passkey, you can sign in with a passkey
+saved in Samsung Pass instead of the sign-in information.
+1 	On the app or website you are using, create a passkey.
+The method for creating a passkey may differ depending on the app or website.
+2 	When a pop-up window asking whether you want to save the passkey appears, select
+Samsung Pass and follow the on-screen instructions to save the passkey.
+Now you can sign in with the passkey saved in Samsung Pass.
+Location
+Change settings for location information permissions.
+On the Settings screen, tap Location.
+• 	App permissions: Check the list of apps that have permission to access the device’s
+location and edit the permission settings.
+• 	Location services: Set the device to use the Wi-Fi or Bluetooth feature to increase
+the accuracy of your location information, even when the features are turned off. You
+can also check the location services your device is using.
+• 	Recent access: Check which apps request your current location information.
+
+-- 110 of 137 --
+
+Settings
+111
+Safety and emergency
+Manage your medical information and emergency contacts. You can also change
+settings for emergency features, such as wireless emergency alerts.
+On the Settings screen, tap Safety and emergency.
+• 	Medical info: Enter your medical information.
+• 	Emergency contacts: Add your emergency contacts.
+• 	Emergency SOS: Make an emergency call to the preset number when you press the
+Side button several times as specified on the settings screen of this feature.
+• 	Emergency sharing: Set the device to send information, such as your location or your
+device’s lower battery notifications, to your emergency contacts for a certain period
+of time.
+• 	Silence notifications while driving: Turn on the Do Not Disturb feature
+automatically while driving.
+• 	Emergency Location Service: Turn on the Emergency Location Service (ELS) feature.
+• 	Wireless emergency alerts: Change the settings for wireless emergency alerts.
+• 	Earthquake alerts: Turn on the earthquake alert feature.
+• 	Unknown tracker alerts: You will receive a notification if an unknown tracker has
+been detected travelling with you.
+Some features may not be available depending on the region or the model.
+
+-- 111 of 137 --
+
+Settings
+112
+Accounts and backup
+Options
+Sync, back up, or restore your device’s data using Samsung Cloud. You can also sign in to
+accounts, such as your Samsung account or Google Account, or transfer data to or from
+other devices through Smart Switch.
+On the Settings screen, tap Accounts and backup.
+• 	Manage accounts: Add your Samsung and Google accounts, or other accounts, to
+sync with.
+• 	Samsung Cloud: Back up your data and settings, and restore the previous device’s
+data and settings even when you do not have it. Refer to Samsung Cloud for more
+information.
+• 	Google Drive: Keep your personal information, app data, and settings safe on your
+device. You can back up your sensitive information. You must sign in to your Google
+Account to back up data.
+• 	Smart Switch: Open Smart Switch and transfer data from your previous device. Refer
+to Transferring data from your previous device (Smart Switch) for more information.
+Regularly back up your data to a safe location, such as Samsung Cloud or a
+computer, so that you can restore it if the data is damaged or lost because of an
+unintended factory data reset.
+Samsung Cloud
+Back up your device’s data to Samsung Cloud and restore it later.
+Backing up data
+You can back up your device’s data to Samsung Cloud.
+1 	On the Settings screen, tap Accounts and backup and tap Back up data under
+Samsung Cloud.
+2 	Tap the switches next to the items you want to back up and tap Back up now.
+
+-- 112 of 137 --
+
+Settings
+113
+3 	Tap Done.
+• 	Some data will not be backed up. To check which data will be backed up, on the
+Settings screen, tap Accounts and backup and tap Back up data under Samsung
+Cloud.
+• 	To check the backup data for other devices in your Samsung Cloud, on the
+Settings screen, tap Accounts and backup → Restore data, and then select a
+device you want.
+Restoring data
+You can restore your backup data from Samsung Cloud to your device.
+1 	On the Settings screen, tap Accounts and backup.
+2 	Tap Restore data and select a device you want.
+3 	Tick items you want to restore and tap Restore.
+Google services
+Configure settings for some features provided by Google.
+On the Settings screen, tap Google services.
+
+-- 113 of 137 --
+
+Settings
+114
+Advanced features
+Options
+Turn on advanced features and change the settings that control them.
+On the Settings screen, tap Advanced features.
+• 	Intelligent features: Use AI features to help you use your device.
+• 	Bixby: Bixby is a user interface that helps you use your device more conveniently.
+Refer to Bixby for more information.
+• 	Labs: Use new features of the device.
+• 	Side button: Select an app or feature to launch using the Side button. Refer to
+Setting the Side button for more information.
+• 	Multi window: Set how to launch Multi window. You can also configure settings for
+Multi window. Refer to Multi window for more information.
+• 	Motions and gestures: Turn on the motion feature and configure settings. Refer to
+Motions and gestures for more information.
+• 	One-handed mode: Turn on one-handed operation mode for your convenience when
+using the device with one hand.
+• 	Screenshots and screen recordings: Change the settings for screenshots and screen
+recorder.
+• 	Video effects: Set to use various effects, such as changing the background while
+using the camera in certain apps. Refer to Video effects for more information.
+This feature is only available in some apps.
+• 	Game Booster settings: Configure settings for Game Booster.
+• 	Galaxy Avatar: Create avatars any way you want and have fun using them in various
+features. Refer to Galaxy Avatar for more information.
+• 	Dual Messenger: Install the second app and use two separate accounts for the same
+messenger app. Refer to Dual Messenger for more information.
+Some features may not be available depending on the carrier or model.
+
+-- 114 of 137 --
+
+Settings
+115
+Motions and gestures
+Turn on the motion feature and configure settings.
+On the Settings screen, tap Advanced features → Motions and gestures.
+• 	Lift to wake: Set the device to turn on the screen when you pick it up.
+• 	Double tap to turn on screen: Set the device to turn on the screen by double tapping
+anywhere on the screen while the screen is turned off.
+• 	Double tap to turn off screen: Set the device to turn off the screen by double
+tapping an empty area on the Home screen or the locked screen.
+• 	Alert when phone picked up: Set the device to vibrate when you pick it up if you
+have notifications, such as missed calls.
+This feature may not work if the screen is turned on or the device is not on a
+flat surface.
+• 	Mute with gestures: Set the device to mute certain sounds by using motions or
+gestures.
+• 	Palm swipe to capture: Set the device to capture a screenshot when you swipe
+your hand to the left or right across the screen. You can check the captured images
+in Gallery. It is not possible to capture a screenshot while using some apps and
+features.
+Excessive shaking or an impact to the device may cause an unintended input for
+some features using sensors.
+
+-- 115 of 137 --
+
+Settings
+116
+Video effects
+You can use various features, such as changing the background while using the camera
+in certain apps.
+While using the camera in apps that support this feature, open the quick settings panel
+and tap Video effects.
+• 	: Reset the settings.
+• 	: Select or add background colours or images to use.
+• 	Background: Change or blur the background.
+• 	Face: Apply beauty effects to the face.
+• 	Colour tone: Adjust the screen’s colour tone and brightness.
+• 	Auto framing: Turn the auto framing feature on or off. When you turn on this feature,
+the device changes the shooting angle and zoom automatically by recognising and
+tracking people.
+• 	Some features may not be available depending on the model.
+• 	Some features are available only when using the front camera.
+Galaxy Avatar
+Create avatars any way you want and have fun using them in various features.
+On the Settings screen, tap Advanced features → Galaxy Avatar. If you added the app
+icon to the Apps screen, open the Galaxy Avatar app.
+Creating a Galaxy Avatar
+Launch Galaxy Avatar, tap the Create icon ( 	), and then follow the on-screen
+instructions to create an avatar.
+
+-- 116 of 137 --
+
+Settings
+117
+Using Galaxy Avatar stickers
+When you create avatars, stickers with avatar expressions and actions will be created
+automatically. You can use your avatar stickers when sending messages or on a social
+network.
+Launch Galaxy Avatar and tap Avatar Stickers. To create your own stickers, tap the Make
+custom stickers icon ( 	) at the top of the stickers list.
+Using the Galaxy Avatar camera
+Create fun pictures or videos with avatars using various shooting modes.
+Launch Galaxy Avatar and tap Avatar Camera. Select the avatar and the mode you want
+to use, then take a picture or record a video.
+Dual Messenger
+Install the second app and use two separate accounts for the same messenger app.
+1 	On the Settings screen, tap Advanced features → Dual Messenger.
+Supported apps will appear.
+2 	Tap the switch of an app to install the second app.
+The second app will be installed. The second app’s icon will be displayed with the
+Second app icon ( 	).
+• 	The Dual Messenger feature may not be available depending on the app.
+• 	Some features of the app may be limited for the second app.
+Uninstalling a second app
+1 	On the Settings screen, tap Advanced features → Dual Messenger.
+2 	Tap the switch of the app you want to uninstall and tap Uninstall.
+All data related to the second app will be deleted.
+If you uninstall the first app, the second app will also be deleted.
+
+-- 117 of 137 --
+
+Settings
+118
+Digital Wellbeing and parental controls
+Check the history of your device usage and use features to prevent your device from
+interfering with your life. You can also set up parental controls for your children and
+manage their digital use.
+On the Settings screen, tap Digital Wellbeing and parental controls.
+• 	App timers: Limit the daily usage time for each app by setting a timer. When you
+reach the limit, the app will be turned off and you cannot use it.
+• 	Screen time goal: Set goals for how much you use your device a day.
+• 	Driving monitor: Turn on the driving monitor to monitor the amount of the time you
+use your device while driving.
+• 	Walking monitor: Turn on the walking monitor to monitor the amount of the time
+you use your device while walking.
+• 	Volume monitor: Turn on the volume monitor to protect your hearing.
+• 	Content restrictions: Limit the websites that can be accessed or set age restrictions
+for apps and games. This feature is only available in the Samsung Internet app and
+Galaxy Store app.
+• 	Parental controls: Manage your children’s digital use.
+Device care
+The device care feature provides an overview of the status of your device’s battery,
+storage, memory, and system security. You can also optimise the device.
+On the Settings screen, tap Device care.
+• 	Optimise now: Close apps running in the background or using an abnormal amount
+of battery and scan for crashed apps and malware to optimise your device.
+• 	Battery: Check the remaining battery power and time to use the device. For devices
+with low battery levels, conserve battery power by turning on power saving features.
+Refer to Battery for more information.
+
+-- 118 of 137 --
+
+Settings
+119
+• 	Storage: Check the status of used and available storage and free up storage by
+deleting unnecessary files, such as the files in the recycle bin, unused files, or
+duplicated files after checking them.
+• 	The actual available capacity of the internal storage is less than the
+specified capacity because the operating system and default apps occupy
+part of the storage. The available capacity may change when you update the
+device.
+• 	You can check the available capacity of the internal storage in the
+Specification section for your device on the Samsung website.
+• 	Memory: Check memory usage or tap Clean now to free up memory by stopping
+background apps.
+• 	App protection: Scan your device for malware and other suspicious activity to stay
+safe.
+• 	Auto optimisation: Perform auto optimisation by closing background apps or
+cleaning up memory, to keep the device running in its best condition.
+Tap Auto restart to set the device to restart automatically when performance issues
+are detected or at a time you set.
+• 	Software update: Update your device’s software through the firmware over-the-air
+(FOTA) service. You can also schedule software updates.
+• 	Diagnostics: Test your device using Samsung Members.
+• 	Maintenance mode: Turn on maintenance mode to protect your privacy while
+someone else is using your device, such as when you send it for repairs.
+Apps
+Manage the device’s apps and change their settings. You can check the apps’ usage
+information, change their notification or permission settings, or uninstall or disable
+unnecessary apps.
+On the Settings screen, tap Apps.
+
+-- 119 of 137 --
+
+Settings
+120
+General management
+Customise your device’s system settings or reset the device.
+On the Settings screen, tap General management.
+• 	Language: Select device languages. Refer to Adding device languages for more
+information.
+• 	App languages: Select the language you want to use for each app.
+• 	Voice input: Download language packs to use the voice input feature offline.
+• 	Date and time: Access and alter the settings to control how the device displays the
+time and date.
+If the battery remains fully discharged, the time and date is reset.
+• 	Samsung Keyboard settings: Change the settings for the Samsung Keyboard.
+• 	Keyboard: Select a keyboard to use by default and change the keyboard settings.
+• 	Physical keyboard: Change the settings for an external keyboard.
+• 	Mouse: Change the settings for an external mouse.
+• 	Touchpad: Change the settings for an external touchpad.
+• 	Reset: Reset your device’s settings or perform a factory data reset.
+• 	Customisation Service: Set to get personalised service based on your interests and
+how you use your device.
+• 	Contact us: Ask questions or check the frequently asked questions.
+Adding device languages
+You can add languages to use on your device.
+1 	On the Settings screen, tap General management → Language → Add language.
+2 	Select a language to add.
+3 	To set the selected language as the default language, tap Set as default. To keep the
+current language setting, tap Keep current.
+The selected language will be added to your languages list. If you changed the default
+language, the selected language will be added to the top of the list.
+To change the default language from your languages list, select the language you want
+and tap Apply. If an app does not support the default language, the next supported
+language in the list will be used.
+
+-- 120 of 137 --
+
+Settings
+121
+Accessibility
+Configure various settings to improve accessibility to the device.
+On the Settings screen, tap Accessibility.
+• 	Recommended for you: Check the accessibility features you are currently using and
+check other recommended features.
+• 	Vision enhancements: Customise the settings to improve accessibility for visually
+impaired users.
+• 	TalkBack: Turn on TalkBack, which provides voice feedback. To check help
+information to learn how to use this feature, tap Settings → Talkback tutorial.
+• 	Hearing enhancements: Customise the settings to improve accessibility for users
+with hearing impairment.
+• 	Interaction and dexterity: Customise the settings to improve accessibility for users
+who have reduced dexterity.
+• 	Accessibility shortcuts: Configure settings for Direct access.
+• 	Installed apps: Check out accessibility services installed on the device.
+• 	About Accessibility: Check the Accessibility information.
+• 	Contact us: Ask questions or check frequently asked questions.
+Software update
+Update your device’s software through the firmware over-the-air (FOTA) service. You can
+also change the auto download setting.
+On the Settings screen, tap Software update. Tap Check for updates and check for or
+install updates manually.
+To change the auto download setting, tap the More options icon ( ) → Auto download.
+If emergency software updates are released for your device’s security and to block
+new types of security threats, they will be installed automatically without your
+agreement.
+
+-- 121 of 137 --
+
+Settings
+122
+Security updates information
+Security updates are provided to strengthen the security of your device and
+protect your personal information. For security updates for your model, visit
+security.samsungmobile.com.
+The website supports only some languages.
+Remote management (Galaxy A37 5G)
+If you have any questions or technical problems with your device, you can get help
+through the remote support service.
+On the Settings screen, tap Remote management.
+About phone
+Access your device’s information.
+On the Settings screen, tap About phone.
+To change your device’s name, tap Rename.
+• 	Status information: Check out various device information, such as the SIM card
+status, Wi-Fi MAC address, and serial number.
+• 	Legal information: Access legal information related to the device, such as safety
+information and the open source licence.
+• 	Software information: Access the device’s software information, such as its
+operating system version and firmware version.
+• 	Battery information: Check out battery information.
+You can check the following battery information here. The available
+information may vary depending on the region, service provider, or model.
+• 	Date of battery manufacturing
+• 	Date of first use
+• 	Number of full charge/discharge cycles (based on rated capacity)
+• 	Measured state of health
+
+-- 122 of 137 --
+
+123
+Usage notices
+Precautions for using the device
+Please read this guide when using the device to ensure safe and proper use.
+• 	Descriptions are based on the device’s default settings.
+• 	Some content may differ from your device depending on the region, service provider,
+model specifications, or device’s software.
+• 	The device may require a connection to a Wi-Fi or mobile network when using some
+apps or features.
+• 	Content (high quality content) that requires high CPU and memory usage will affect
+the overall performance of the device. Apps related to the content may not work
+properly depending on the device’s specifications and the environment that it is
+used in.
+• 	Samsung is not liable for performance issues caused by apps supplied by providers
+other than Samsung.
+• 	Samsung is not liable for performance issues or incompatibilities caused by edited
+registry settings or modified operating system software. Attempting to customise
+the operating system may cause the device or apps to work improperly.
+• 	Software, sound sources, wallpapers, images, and other media provided with
+this device are licensed for limited use. Extracting and using these materials for
+commercial or other purposes is an infringement of copyright laws. Users are
+entirely responsible for illegal use of media.
+• 	You may incur additional charges for data services, such as messaging, uploading
+and downloading, auto-syncing, or using location services depending on your data
+plan. For large data transfers, it is recommended to use the Wi-Fi feature.
+• 	Default apps that come with the device are subject to updates and may no longer be
+supported without prior notice.
+• 	Modifying the device’s operating system or installing software from unofficial
+sources may result in device malfunctions and data damage or loss. These actions
+are violations of your Samsung licence agreement and will void your warranty.
+
+-- 123 of 137 --
+
+Usage notices
+124
+• 	You can see the screen clearly even in strong outdoor sunlight by automatically
+adjusting the contrast range based on the surrounding environment. Because of the
+nature of the product, displaying fixed graphics for extended periods may result in
+afterimages (screen burn-in) or ghosting.
+‒ 	It is recommended not to use fixed graphics on part or all of the screen for
+extended periods and turn off the screen when not using the device.
+‒ 	You can set the screen to turn off automatically when you are not using it. Open
+Settings, tap Display → Screen timeout, and then select the length of time you
+want the device to wait before turning off the screen.
+‒ 	To set the screen to automatically adjust its brightness based on the surrounding
+environment, open Settings, tap Display, and then tap the Adaptive brightness
+switch to turn it on.
+• 	Depending on the region or model, some devices are required to receive approval
+from the Federal Communications Commission (FCC).
+If your device is approved by the FCC, you can check out the FCC ID of the device. To
+access the FCC ID, open Settings and tap About phone → Status information. If your
+device does not have an FCC ID, it means that the device has not been authorised for
+sale in the U.S. or its territories and may only be brought to the U.S. for the owner’s
+personal use.
+• 	Depending on the region, you can check out the regulatory information on the
+device. To access the information, open Settings and tap About phone → Regulatory
+information.
+• 	The bandwidths supported by the device may vary depending on the region or
+carrier.
+• 	5G network availability may vary depending on the model, country, network
+provider, and user environment.
+• 	Your device contains magnets. Keep it away from credit cards, implanted medical
+devices, and other devices that may be affected by magnets. In the case of medical
+devices, keep your device more than 15 cm apart. Stop using your device if you
+suspect any interference with your medical device and consult your physician or your
+medical device manufacturer.
+
+-- 124 of 137 --
+
+Usage notices
+125
+Instructional icons
+Warning: situations that could cause injury to yourself or others
+Caution: situations that could cause damage to your device or other equipment
+Notice: notes, usage tips, or additional information
+Notes on package contents and accessories
+Refer to the quick start guide for package contents.
+• 	The items supplied with the device and any available accessories may vary
+depending on the region or carrier.
+• 	The supplied items are designed only for this device and may not be compatible with
+other devices.
+• 	Appearances and specifications are subject to change without prior notice.
+• 	You can purchase additional accessories from your local Samsung retailer. Make sure
+they are compatible with the device before purchase.
+• 	Use of Samsung-approved accessories is recommended. Using unapproved
+accessories may result in performance issues or malfunctions, which may not be
+covered by warranty.
+• 	Availability of all accessories is subject to change depending entirely on
+manufacturing companies. For more information about available accessories, refer
+to the Samsung website.
+• 	Headphones (USB Type-C) that support digital output can be used with the device.
+However, the device may not be compatible with headphones that use a different
+audio output method or were made by a different manufacturer.
+• 	The included USB cable supports up to 3A charging. Charger not included. For
+optimal charging performance, use of an official Samsung 45W charger and a cable
+compatible with your device, sold separately, is recommended.
+• 	For environmental reasons, this package does not include a charger. This device can
+be powered with most USB power adapters and a cable with a USB Type-C plug.
+The charger may be supplied with the device depending on the region.
+
+-- 125 of 137 --
+
+Usage notices
+126
+Maintaining water and dust resistance
+Your device is water- and dust-resistant and meets the following international
+standards.
+• 	IP68 water resistance rating certification: According to the requirements of the
+IEC 60529 standard, it was tested in 15-35 °C, 86-106 kPa, 1.5 m fresh water for
+30 minutes without moving.
+You must follow the guidelines to maintain the water- and dust-resistance of your
+device.
+• 	Do not expose the device to swimming pool water or sea water.
+• 	If the device is exposed to unclean water or other liquids, such as soapy water, oil,
+perfume, sunscreen, hand cleaner, chemical products such as cosmetics, or liquids
+that include the alcohol, clean the device with fresh water that does not flow, wipe
+it with a soft and clean cloth, and then dry it thoroughly before use to maintain the
+water resistance.
+• 	Do not expose the device to water moving with force. A sudden rise in the water
+pressure may exceed the guaranteed level of water resistance.
+• 	In places, such as a sauna or steam room, the water-resistant performance may be
+damaged because of sudden changes in the temperature.
+• 	If the device is subjected to an external shock or is damaged, its water resistance
+may decrease.
+If the device is exposed to water or pollutants, follow the guidelines:
+• 	Wipe the device with a soft and clean cloth, and then dry it thoroughly.
+• 	If the microphone or speaker is not completely dry, it may result in the sound not
+being clear during a call.
+• 	The screen and other features may not work properly if the device is used in water.
+• 	Do not connect the charger or any accessories until the device is completely dry.
+The device can be damaged if an accessory or charger is connected when the
+multipurpose jack is not yet dry.
+The water and dust resistance of your Samsung Galaxy device is not permanent and may
+diminish over time because of normal wear and tear.
+
+-- 126 of 137 --
+
+Usage notices
+127
+Device overheating situations and solutions
+When the device heats up while charging the battery
+While charging, the device and the charger may become hot. During wireless charging
+or fast charging, the device may feel hotter to the touch. This does not affect the device’s
+lifespan or performance and is in the device’s normal range of operation. If the battery
+becomes too hot, the charging speed may decrease or the charger may stop charging.
+Do the following when the device heats up:
+• 	Disconnect the charger from the device and close any running apps. Wait for the
+device to cool down and then begin charging the device again.
+• 	If the lower part of the device overheats, it may be because of a damaged USB
+cable. Replace the USB cable with a new one. A Samsung-approved USB cable is
+recommended.
+• 	When using a wireless charger, do not place foreign materials, such as metal
+objects, magnets, and magnetic stripe cards, between the device and the
+wireless charger.
+The wireless charging or fast charging feature is only available on supported
+models.
+When the device heats up during use
+When you use features or apps that require more power or use them for extended
+periods, your device may temporarily heat up because of increased battery consumption.
+Close any running apps and do not use the device for a while.
+Refer to the following examples of situations in which the device may overheat.
+• 	During the initial setup after purchase or when restoring data
+• 	When downloading large files
+
+-- 127 of 137 --
+
+Usage notices
+128
+• 	When using apps that require more power or using apps for extended periods
+‒ 	When playing high-quality games for extended periods
+‒ 	When recording videos for extended periods
+‒ 	When streaming videos while using the maximum brightness setting
+‒ 	When connecting to a TV
+• 	While multitasking (or, when running many apps in the background)
+‒ 	When using Multi window
+‒ 	When updating or installing apps while recording videos
+‒ 	When downloading large files during a video call
+‒ 	When recording videos while using a navigation app
+• 	When using large amount of data for syncing with the cloud, email, or other accounts
+• 	When using a navigation app in a car while the device is placed in direct sunlight
+• 	When using the Mobile Hotspot and Tethering feature
+• 	When using the device in areas with weak signals or no reception
+• 	When charging the battery with a damaged USB cable
+• 	When the device’s multipurpose jack is damaged or exposed to foreign materials,
+such as liquid, dust, metal powder, and pencil lead
+• 	When you are roaming
+Do the following when the device heats up:
+• 	Keep the device updated with the latest software.
+• 	Conflicts between running apps may cause the device to heat up. Restart the
+device.
+• 	Turn off the Wi-Fi, GPS, and Bluetooth features when not using them.
+• 	Close apps that increase battery consumption or that run in the background
+when not in use.
+• 	Delete unnecessary files or unused apps.
+• 	Decrease the screen brightness.
+• 	If the device overheats or feels hot for a prolonged period, do not use it for a
+while. If the device continues to overheat, contact a Samsung Service Centre or
+an authorised service centre.
+
+-- 128 of 137 --
+
+Usage notices
+129
+Precautions for device overheating
+If you begin to feel uncomfortable because of the device overheating, stop using the
+device.
+When the device heats up, the features and performance may be limited or the device
+may turn off to cool down. The feature is only available on supported models.
+• 	If the device overheats, the screen brightness, the screen refresh rate, and the
+performance speed will be limited to lower the device’s temperature. Even if the
+battery charging indicator icon appears, charging may be slow. When charging stops
+because of a rise in the device’s temperature, the battery indicator icon will blink.
+• 	If the device reaches a certain temperature, a warning message will appear to
+prevent device failure, skin irritation and damage, and battery leakage. Running
+apps will be closed and all calling and other features will be limited, except for
+emergency calls, until the device cools down.
+• 	If the second message appears because of a further increase of the device’s
+temperature, the device will turn off. Do not use the device until the device’s
+temperature is within the recommended operating temperature range. If the
+second warning message appears during an emergency call, the call will not be
+disconnected by a forced termination.
+Recommended operating temperature range
+The device’s recommended operating temperature is between 0 °C to 35 °C. Using
+the device outside of the recommended temperature range may damage the
+device or reduce the battery’s lifespan.
+
+-- 129 of 137 --
+
+Usage notices
+130
+Precautions for operating environment
+Your device may heat up because of the environment in the following conditions. Use
+caution to avoid shortening the battery’s lifespan, damaging the device, or causing a fire.
+• 	Do not store your device in very cold or very hot temperatures.
+• 	Do not expose your device to direct sunlight for extended periods.
+• 	Do not use or store your device for extended periods in very hot areas, such as inside
+a car in the summertime.
+• 	Do not place the device in any areas that may overheat, such as on an electric
+heating mat.
+• 	Do not store your device near or in heaters, microwaves, hot cooking equipment, or
+high pressure containers.
+• 	Do not use a cable whose covering is peeled off or damaged, and do not use any
+charger or battery that is damaged or malfunctioning.
+How to find the standby power consumption
+information for this product
+• 	Access www.samsung.com/global/ecodesign_energy.
+• 	Search using the product model number.
+This feature may not be available depending on the region, carrier, or model.
+
+-- 130 of 137 --
+
+131
+Appendix
+Troubleshooting
+Before contacting a Samsung Service Centre or an authorised service centre, please
+attempt the following solutions. Some situations may not apply to your device.
+You can also use Samsung Members to solve any problems you might encounter while
+using your device.
+When you turn on your device or while you are using the device, it
+prompts you to enter one of the following codes:
+• 	Password: When the device lock feature is turned on, you must enter the password
+you set for the device.
+• 	PIN: When using the device for the first time or when the PIN requirement is turned
+on, you must enter the PIN supplied with the nano-SIM card. You can turn off this
+feature by using the Lock SIM card menu.
+• 	PUK: Your nano-SIM card is blocked, usually as a result of entering your PIN
+incorrectly several times. You must enter the PUK supplied by your carrier.
+• 	PIN2: When you access a menu requiring the PIN2, you must enter the PIN2 supplied
+with the nano-SIM card. For more information, contact your carrier.
+Your device displays network or service error messages
+• 	When you are in areas with weak signals or poor reception, you may lose reception.
+Move to another area and try again. While moving, error messages may appear
+repeatedly.
+• 	You cannot access some options without a subscription. For more information,
+contact your carrier.
+Your device does not turn on
+When the battery is completely discharged, your device will not turn on. Fully charge the
+battery before turning on the device.
+
+-- 131 of 137 --
+
+Appendix
+132
+Touch recognition works slowly or improperly
+• 	Touch recognition may not work properly in the following situations:
+‒ 	If you attach a screen protector or optional accessories to the screen
+‒ 	If you are wearing gloves, if your hands are not clean while touching the screen, or
+if you tap the screen with a sharp object or your fingertips
+‒ 	In humid conditions or when exposed to water
+• 	Restart your device to clear any temporary software problems.
+• 	Ensure that your device software is updated to the latest version.
+• 	If the screen is scratched or damaged, visit a Samsung Service Centre or an
+authorised service centre.
+Your device freezes or encounters a fatal problem
+Try the following solutions. If the problem is still not resolved, contact a Samsung
+Service Centre or an authorised service centre.
+Restarting the device
+If your device freezes or hangs, you may need to close apps or turn off the device and
+turn it on again.
+Forcing restart
+If your device is frozen and unresponsive, press and hold the Side button and the Volume
+Down button simultaneously for more than 7 seconds to restart it.
+Resetting the device
+If these methods do not solve your problem, perform a factory data reset.
+Open Settings and tap General management → Reset → Factory data reset → Reset →
+Delete all. Before performing the factory data reset, remember to make backup copies
+of all important data stored in the device.
+
+-- 132 of 137 --
+
+Appendix
+133
+Calls are not connected
+• 	Ensure that you have accessed the right cellular network.
+• 	Ensure that you have not set call barring for the phone number you are dialling.
+• 	Ensure that you have not set call barring for the incoming phone number.
+Others cannot hear you speaking on a call
+• 	Ensure that you are not covering the built-in microphone.
+• 	Ensure that the microphone is close to your mouth.
+• 	If you are using headphones, ensure that they are properly connected.
+Sound echoes during a call
+Adjust the volume by pressing the Volume button or move to another area.
+A cellular network or the internet is often disconnected or audio
+quality is poor
+• 	Ensure that you are not blocking the device’s internal antenna.
+• 	When you are in areas with weak signals or poor reception, you may lose reception.
+You may have connectivity problems because of issues with the carrier’s base
+station. Move to another area and try again.
+• 	When using the device while moving, wireless network services may be disabled
+because of issues with the carrier’s network.
+The battery does not charge properly (For Samsung-approved
+chargers)
+• 	Ensure that the charger is connected properly.
+• 	Visit a Samsung Service Centre or an authorised service centre and have the battery
+replaced. Bring the charger and USB cable you are using for better service support.
+
+-- 133 of 137 --
+
+Appendix
+134
+The battery depletes faster than when first purchased
+• 	When you expose the device or the battery to very cold or very hot temperatures, the
+useful charge may be reduced.
+• 	Battery consumption will increase when you use certain features or apps, such as
+GPS, games, or the internet.
+• 	The battery is consumable and the useful charge will get shorter over time.
+Error messages appear when opening the camera
+Your device must have sufficient available storage and battery power to operate the
+camera app. If you receive error messages when opening the camera, try the following:
+• 	Charge the battery.
+• 	Free some storage by transferring files to a computer or deleting files from your
+device.
+• 	Restart the device.
+If you are still having trouble with the camera app after trying these tips, contact a
+Samsung Service Centre or an authorised service centre.
+Picture quality is poorer than the preview
+• 	The quality of your pictures may vary, depending on the surroundings and the
+photography techniques you use.
+• 	If you take pictures in dark areas, at night, or indoors, image noise may occur or
+images may be out of focus.
+Error messages appear when opening multimedia files
+If you receive error messages or multimedia files do not play when you open them on
+your device, try the following:
+• 	Free some storage by transferring files to a computer or deleting files from your
+device.
+• 	Ensure that the music file is not Digital Rights Management (DRM)-protected. If the
+file is DRM-protected, ensure that you have the appropriate licence or key to play the
+file.
+
+-- 134 of 137 --
+
+Appendix
+135
+• 	Ensure that the file formats are supported by the device. If a file format is not
+supported, such as DivX or AC3, install an app that supports it. To check the file
+formats that your device supports, visit the Samsung website.
+• 	Your device supports pictures and videos captured with the device. Pictures and
+videos captured by other devices may not work properly.
+• 	Your device supports multimedia files that are authorised by your carrier or providers
+of additional services. Some content circulated on the internet, such as ringtones,
+videos, or wallpapers, may not work properly.
+Bluetooth is not working well
+If another Bluetooth device is not located or there are connection problems or
+performance malfunctions, try the following:
+• 	Ensure that the device you wish to connect with is ready to be scanned or connected
+to.
+• 	Ensure that your phone and the other Bluetooth device are within the maximum
+Bluetooth range (10 m).
+• 	On your phone, open Settings, tap Connections, and then tap the Bluetooth switch
+to turn it on again.
+• 	On your phone, open Settings, tap General management → Reset → Reset Wi-Fi
+and Bluetooth settings → Reset settings to reset network settings. You may lose
+registered information when performing the reset.
+If these tips do not solve the problem, contact a Samsung Service Centre or an
+authorised service centre.
+A connection is not made when you connect the device to a
+computer
+• 	Ensure that the USB cable you are using is compatible with your device.
+• 	Ensure that you have the proper driver installed and updated on your computer.
+Your device cannot find your current location
+GPS signals may be obstructed in some locations, such as indoors. Set the device to use
+Wi-Fi or a mobile network to find your current location in these situations.
+
+-- 135 of 137 --
+
+Appendix
+136
+Data stored in the device has been lost
+Always make backup copies of all important data stored in the device. Otherwise, you
+cannot restore data if it is damaged or lost. Samsung is not responsible for the loss of
+data stored in the device.
+A small gap appears around the outside of the device case
+• 	This gap is a necessary manufacturing feature and some minor rocking or vibration
+of parts may occur.
+• 	Over time, friction between parts may cause this gap to expand slightly.
+There is not enough space in the device’s storage
+Delete unnecessary data, such as cache, using the device care feature or manually delete
+unused apps or files to free up storage space.
+The Home button does not appear
+The navigation bar containing the Home button may disappear while using certain apps
+or features. To access the navigation bar, drag upwards from the bottom of the screen.
+You may hear a rattling sound when shaking the device
+For devices with the Optical Image Stabilisation (OIS) feature or the Auto Focus (AF)
+feature in their cameras, this sound may occur as related internal components come into
+contact. This is a normal phenomenon because of the characteristics of the device.
+Removing the battery
+• 	To remove the battery, contact an authorised service centre. To obtain battery
+removal instructions, please visit www.samsung.com/global/ecodesign_energy.
+• 	For your safety, you must not attempt to remove the battery. If the battery is not
+properly removed, it may lead to damage to the battery and device, cause personal
+injury, and result in the device being unsafe.
+• 	Samsung does not accept liability for any damage or loss (whether in contract or
+tort, including negligence) which may arise from failure to precisely follow these
+warnings and instructions, other than death or personal injury caused by Samsung’s
+negligence.
+
+-- 136 of 137 --
+
+Additional information
+Copyright
+Copyright © 2026 Samsung Electronics Co., Ltd.
+This guide is protected under international copyright laws.
+No part of this guide may be reproduced, distributed, translated, or transmitted in any
+form or by any means, electronic or mechanical, including photocopying, recording, or
+storing in any information storage and retrieval system.
+Trademarks
+• 	Samsung and the Samsung logo are registered trademarks of Samsung Electronics
+Co., Ltd.
+• 	Bluetooth® is a registered trademark of Bluetooth SIG, Inc. worldwide.
+• 	Wi-Fi®, Wi-Fi Direct™, Wi-Fi CERTIFIED™, and the Wi-Fi logo are registered
+trademarks of the Wi-Fi Alliance.
+• 	Manufactured under license from Dolby Laboratories. Dolby, Dolby Atmos, and the
+double-D symbol are trademarks of Dolby Laboratories.
+• 	All other trademarks and copyrights are the property of their respective owners.
+
+-- 137 of 137 --
+
